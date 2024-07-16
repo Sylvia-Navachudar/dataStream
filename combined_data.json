@@ -1,0 +1,682 @@
+{
+  "a5d9f84f-931b-41c5-ae69-685bd0d62931": [
+    {
+      "source_reach": 712,
+      "source_id": "C054DBBA56E1722EFEC5BF468DF229E8",
+      "source_name": "Myinforms",
+      "source_country_code": "us",
+      "source_subregion": "Pennsylvania",
+      "source_ave": 6.59,
+      "metadata": {
+        "search_name": "hello",
+        "search_id": 1234,
+        "hook_id": "0a815fa3ee87489de1b932f178541f80c1f1038c",
+        "company_id": "company_id"
+      },
+      "source_information_type": "news",
+      "document_url": "http://myinforms.com/en-us/a/43897824-musk-throws-pie-at-naysayers-as-tesla-posts-rare-profit/",
+      "document_title": "Musk Throws 'Pie' at Naysayers as Tesla Posts Rare Profit",
+      "document_sentiment": "negative",
+      "document_publish_date": "2016-02-01T05:10:14.371Z",
+      "document_language_code": "en",
+      "document_key_phrases": [
+        "fourth quarter"
+      ],
+      "document_opening_text": "Tesla Motors Inc. posted an unexpected profit.",
+      "document_image_link": "http://i1.myinforms.com/300x200/default.jpg",
+      "document_id": "MweugEjvEhiuFbQQmid40Gs1Y-I",
+      "document_hit_sentence": "Musk Throws 'Pie'",
+      "document_matched_keywords": [
+        "Musk",
+        "Tesla"
+      ],
+      "document_authors": [
+        {
+          "name": "John Doe",
+          "author_information_type": "news"
+        }
+      ]
+    }
+  ],
+  "935ff7a5-14d5-43de-ac90-696511a6c991": [
+    {
+      "source_reach": 712,
+      "source_id": "C054DBBA56E1722EFEC5BF468DF229E8",
+      "source_name": "Myinforms",
+      "source_country_code": "us",
+      "source_subregion": "Pennsylvania",
+      "source_ave": 6.59,
+      "metadata": {
+        "search_name": "hello",
+        "search_id": 1234,
+        "hook_id": "0a815fa3ee87489de1b932f178541f80c1f1038c",
+        "company_id": "company_id"
+      },
+      "source_information_type": "news",
+      "document_url": "http://myinforms.com/en-us/a/43897824-musk-throws-pie-at-naysayers-as-tesla-posts-rare-profit/",
+      "document_title": "Musk Throws 'Pie' at Naysayers as Tesla Posts Rare Profit",
+      "document_sentiment": "negative",
+      "document_publish_date": "2016-02-01T05:10:14.371Z",
+      "document_language_code": "en",
+      "document_key_phrases": [
+        "fourth quarter"
+      ],
+      "document_opening_text": "Tesla Motors Inc. posted an unexpected profit.",
+      "document_image_link": "http://i1.myinforms.com/300x200/default.jpg",
+      "document_id": "MweugEjvEhiuFbQQmid40Gs1Y-I",
+      "document_hit_sentence": "Musk Throws 'Pie'",
+      "document_matched_keywords": [
+        "Musk",
+        "Tesla"
+      ],
+      "document_authors": [
+        {
+          "name": "John Doe",
+          "author_information_type": "news"
+        }
+      ]
+    }
+  ],
+  "ac07ab34-37ac-4f68-a7eb-3d1697a0acf3": [
+    {
+      "document_authors": [],
+      "document_city": "",
+      "document_hashtags": [],
+      "document_hit_sentence": "... ，供應鏈也不可能單方面說斷就斷）。\n\n至於特別女子覺得可以觀察的是Tesla，過去Tesla的利潤在中國電動車削價競爭中，也不得不採取同樣手段，特別還有產能是留在中國。但是在川普勝選機率提高之下，Tesla上漲了1.78%。另一方面，加拿大總理跟隨着西歐國家的表態，也公開發聲， ...",
+      "document_id": "rzf92HgYOQTafjHUy1oxQ_HTfEo",
+      "document_image_link": "",
+      "document_key_phrases": [
+        "中國電動車削價競爭",
+        "債券市場",
+        "債券殖利率",
+        "債券跟匯率市場",
+        "反應",
+        "執政是以壓低美元匯率",
+        "川普概念股",
+        "川普遇刺之後",
+        "影響女子認爲",
+        "文／碎念女子"
+      ],
+      "document_language_code": "zh-Hant",
+      "document_location_approximate": {},
+      "document_matched_keywords": [
+        "Tesla"
+      ],
+      "document_media_type": "news",
+      "document_opening_text": "... ▲美國前總統川普13日出席賓州造勢活動遇襲。（圖／達志影像／美聯社） 文／碎念女子萬萬歲 Murmur Girl 今天（15日）是美國金融市場在週末川普遇刺之後的首個交易日，由於在川普遇刺之後，市場投資人普遍認爲川普當選的機率大幅提升，因此金融市場也提早反應。 首先從總體 ...",
+      "document_publish_date": "2024-07-16T07:37:16.351Z",
+      "document_region": "",
+      "document_sentiment": "neutral",
+      "document_social_echo_facebook": 0,
+      "document_social_echo_reddit": 0,
+      "document_social_echo_twitter": 0,
+      "document_tags": [],
+      "document_title": "川普遇刺！美股概念股能源、金融類股先反應 科技股黯淡",
+      "document_url": "https://www.bg3.co/a/chuan-pu-yu-ci-mei-gu-gai-nian-gu-neng-yuan-jin-rong-lei-gu-xian-fan-ying-ke-ji-gu-an-dan.html",
+      "document_visibility": "public",
+      "metadata": {
+        "company_id": "586f71c24f2f0b4bcdc47ba1",
+        "hook_id": "56db4d334fabcb468649cf2849bfe0a59ba836f8",
+        "search_id": 25231135,
+        "search_name": "API Session",
+        "template": "legacy.streaming"
+      },
+      "source_ave": 5687.418000000001,
+      "source_country_code": "cn",
+      "source_id": "EF71363771C90BBA903767CDCAA457A9",
+      "source_information_type": "news",
+      "source_name": "BG3 - 天天要聞",
+      "source_reach": 614856,
+      "source_reach_desktop": 134579,
+      "source_reach_mobile": 480277,
+      "source_subregion": ""
+    }
+  ],
+  "b7da8c21-877f-43e7-9c0f-fa42d90a957d": [
+    {
+      "document_authors": [],
+      "document_city": "",
+      "document_hashtags": [],
+      "document_hit_sentence": "... ，供應鏈也不可能單方面說斷就斷）。\n\n至於特別女子覺得可以觀察的是Tesla，過去Tesla的利潤在中國電動車削價競爭中，也不得不採取同樣手段，特別還有產能是留在中國。但是在川普勝選機率提高之下，Tesla上漲了1.78%。另一方面，加拿大總理跟隨着西歐國家的表態，也公開發聲， ...",
+      "document_id": "rzf92HgYOQTafjHUy1oxQ_HTfEo",
+      "document_image_link": "",
+      "document_key_phrases": [
+        "中國電動車削價競爭",
+        "債券市場",
+        "債券殖利率",
+        "債券跟匯率市場",
+        "反應",
+        "執政是以壓低美元匯率",
+        "川普概念股",
+        "川普遇刺之後",
+        "影響女子認爲",
+        "文／碎念女子"
+      ],
+      "document_language_code": "zh-Hant",
+      "document_location_approximate": {},
+      "document_matched_keywords": [
+        "Tesla"
+      ],
+      "document_media_type": "news",
+      "document_opening_text": "... ▲美國前總統川普13日出席賓州造勢活動遇襲。（圖／達志影像／美聯社） 文／碎念女子萬萬歲 Murmur Girl 今天（15日）是美國金融市場在週末川普遇刺之後的首個交易日，由於在川普遇刺之後，市場投資人普遍認爲川普當選的機率大幅提升，因此金融市場也提早反應。 首先從總體 ...",
+      "document_publish_date": "2024-07-16T07:37:16.351Z",
+      "document_region": "",
+      "document_sentiment": "neutral",
+      "document_social_echo_facebook": 0,
+      "document_social_echo_reddit": 0,
+      "document_social_echo_twitter": 0,
+      "document_tags": [],
+      "document_title": "川普遇刺！美股概念股能源、金融類股先反應 科技股黯淡",
+      "document_url": "https://www.bg3.co/a/chuan-pu-yu-ci-mei-gu-gai-nian-gu-neng-yuan-jin-rong-lei-gu-xian-fan-ying-ke-ji-gu-an-dan.html",
+      "document_visibility": "public",
+      "metadata": {
+        "company_id": "586f71c24f2f0b4bcdc47ba1",
+        "hook_id": "56db4d334fabcb468649cf2849bfe0a59ba836f8",
+        "search_id": 25231135,
+        "search_name": "API Session",
+        "template": "legacy.streaming"
+      },
+      "source_ave": 5687.418000000001,
+      "source_country_code": "cn",
+      "source_id": "EF71363771C90BBA903767CDCAA457A9",
+      "source_information_type": "news",
+      "source_name": "BG3 - 天天要聞",
+      "source_reach": 614856,
+      "source_reach_desktop": 134579,
+      "source_reach_mobile": 480277,
+      "source_subregion": ""
+    }
+  ],
+  "13b0b88f-b6ce-42e0-8f73-253814933896": [
+    {
+      "document_authors": [],
+      "document_city": "",
+      "document_estimated_views": 330,
+      "document_hashtags": [],
+      "document_hit_sentence": "... 7月16日，中信建投发布了一份深度研究报告，聚焦于特斯拉Optimus人形机器人自2021年Tesla AI Day惊艳亮相以来的非凡进展。报告显示，截至2024年5月，Optimus的Gen2版本在性能上实现了质的飞跃，行走速度飙升至约0.6米/秒，同时实现了全身重量的显著减 ...",
+      "document_id": "EH7YgA7XnM1pZXB5erkS5EJjEjg",
+      "document_image_link": "",
+      "document_key_phrases": [
+        "一份深度研究报告",
+        "依托汽车产业链",
+        "全身重量",
+        "工业 领域",
+        "平衡能力、全身",
+        "广泛领域",
+        "应用场景",
+        "应用实例",
+        "应用探索方面",
+        "成为推动产业升级"
+      ],
+      "document_language_code": "zh-Hans",
+      "document_location_approximate": {
+        "region": {
+          "latitude": 23.5,
+          "longitude": 113.25,
+          "name": "Guangdong"
+        }
+      },
+      "document_matched_keywords": [
+        "Tesla"
+      ],
+      "document_media_type": "news",
+      "document_opening_text": "... 7月16日，中信建投发布了一份深度研究报告，聚焦于特斯拉Optimus人形机器人自2021年Tesla AI Day惊艳亮相以来的非凡进展。报告显示，截至2024年5月，Optimus的Gen2版本在性能上实现了质的飞跃，行走速度飙升至约0.6米/秒，同时实现了全身重量的显著减 ...",
+      "document_publish_date": "2024-07-16T07:33:00.000Z",
+      "document_region": "Guangdong",
+      "document_sentiment": "positive",
+      "document_social_echo_facebook": 0,
+      "document_social_echo_reddit": 0,
+      "document_social_echo_twitter": 0,
+      "document_tags": [],
+      "document_title": "特斯拉Optimus人形机器人展现显著进步,国内厂商竞相布局",
+      "document_url": "https://www.elecfans.com/d/4038197.html",
+      "document_visibility": "public",
+      "metadata": {
+        "company_id": "586f71c24f2f0b4bcdc47ba1",
+        "hook_id": "56db4d334fabcb468649cf2849bfe0a59ba836f8",
+        "search_id": 25231135,
+        "search_name": "API Session",
+        "template": "legacy.streaming"
+      },
+      "source_ave": 18683.38125,
+      "source_country_code": "cn",
+      "source_id": "04A29E068842A1CAC137BF1BCF7E6DA7",
+      "source_information_type": "news",
+      "source_name": "电子发烧友",
+      "source_reach": 2019825,
+      "source_reach_desktop": 1172818,
+      "source_reach_mobile": 847007,
+      "source_subregion": ""
+    }
+  ],
+  "90cedbe2-a1d9-428d-ad43-bf6601df595b": [
+    {
+      "document_authors": [],
+      "document_city": "",
+      "document_estimated_views": 5,
+      "document_hashtags": [],
+      "document_hit_sentence": "Washington, DC [US], July 16 (ANI): Tech billionaire and Tesla CEO Elon Musk claimed on Tuesday that his platform X, formerly Twitter, ...",
+      "document_id": "UgsSfefU5Z2_m4gK9oSdXf9Op5Q",
+      "document_image_link": "https://cdn.bignewsnetwork.com/ani1721115297.jpg",
+      "document_key_phrases": [
+        "account reinstatements",
+        "average",
+        "elon musk claims",
+        "free access to premium features",
+        "platform engagement",
+        "record",
+        "subscriber followers",
+        "user",
+        "x usage"
+      ],
+      "document_language_code": "en",
+      "document_location_approximate": {
+        "region": {
+          "latitude": 39.91691,
+          "longitude": 116.39706,
+          "name": "Beijing"
+        }
+      },
+      "document_matched_keywords": [
+        "Tesla"
+      ],
+      "document_media_type": "news",
+      "document_opening_text": "Washington, DC [US], July 16 (ANI): Tech billionaire and Tesla CEO Elon Musk claimed on Tuesday that his platform X, formerly Twitter, ...",
+      "document_publish_date": "2024-07-16T07:18:00.000Z",
+      "document_region": "Beijing",
+      "document_sentiment": "neutral",
+      "document_social_echo_facebook": 0,
+      "document_social_echo_reddit": 0,
+      "document_social_echo_twitter": 0,
+      "document_tags": [],
+      "document_title": "Elon Musk claims 'record high' X usage",
+      "document_url": "https://www.beijingbulletin.com/news/274455438/elon-musk-claims-record-high-x-usage",
+      "document_visibility": "public",
+      "metadata": {
+        "company_id": "586f71c24f2f0b4bcdc47ba1",
+        "hook_id": "56db4d334fabcb468649cf2849bfe0a59ba836f8",
+        "search_id": 25231135,
+        "search_name": "API Session",
+        "template": "legacy.streaming"
+      },
+      "source_ave": 32.856,
+      "source_country_code": "cn",
+      "source_id": "2390E07A2F3FA3F9E587697D97091460",
+      "source_information_type": "news",
+      "source_name": "Beijing Bulletin",
+      "source_reach": 3552,
+      "source_reach_desktop": 516,
+      "source_reach_mobile": 3036,
+      "source_subregion": ""
+    }
+  ],
+  "fb0e51b1-86ac-4992-ba4f-780d95a9c936": [
+    {
+      "document_authors": [],
+      "document_city": "",
+      "document_estimated_views": 201,
+      "document_hashtags": [],
+      "document_hit_sentence": "... 【环球网科技综合报道】7月16日，中信建投发布研报，详细分析了特斯拉Optimus人形机器人自2021年Tesla AI Day首次亮相以来的显著进展。截至2024年5月，Optimus Gen2在性能层面表现突出，其行走速度已达到约0.6m/s，全身重量减轻超过10kg，且行 ...",
+      "document_id": "rzOvf4hsc4S0Xc_cfyGo6-AHTOU",
+      "document_image_link": "https://q9.itc.cn/images01/20240716/4db1af859cd04a9293997ba04cbeb54a.jpeg",
+      "document_key_phrases": [
+        "充分利用汽车产业链",
+        "国内",
+        "坚实基础",
+        "基本工厂任务方面",
+        "平衡能力、全身控制",
+        "应用场景",
+        "应用实例",
+        "应用层面",
+        "强大基础",
+        "性能层面"
+      ],
+      "document_language_code": "zh-Hans",
+      "document_location_approximate": {},
+      "document_matched_keywords": [
+        "Tesla"
+      ],
+      "document_media_type": "news",
+      "document_opening_text": "... 【环球网科技综合报道】7月16日，中信建投发布研报，详细分析了特斯拉Optimus人形机器人自2021年Tesla AI Day首次亮相以来的显著进展。截至2024年5月，Optimus Gen2在性能层面表现突出，其行走速度已达到约0.6m/s，全身重量减轻超过10kg，且行 ...",
+      "document_publish_date": "2024-07-16T07:52:59.868Z",
+      "document_region": "",
+      "document_sentiment": "positive",
+      "document_social_echo_facebook": 0,
+      "document_social_echo_reddit": 0,
+      "document_social_echo_twitter": 0,
+      "document_tags": [],
+      "document_title": "特斯拉Optimus人形机器人取得显著进展，国内厂商积极布局",
+      "document_url": "https://www.sohu.com/a/793692583_99900743",
+      "document_visibility": "public",
+      "metadata": {
+        "company_id": "586f71c24f2f0b4bcdc47ba1",
+        "hook_id": "56db4d334fabcb468649cf2849bfe0a59ba836f8",
+        "search_id": 25231135,
+        "search_name": "API Session",
+        "template": "legacy.streaming"
+      },
+      "source_ave": 516268.7885,
+      "source_country_code": "cn",
+      "source_id": "E03814C1D555E06AA5D562D95ED29BD2",
+      "source_information_type": "news",
+      "source_name": "搜狐新闻",
+      "source_reach": 55812842,
+      "source_reach_desktop": 22159110,
+      "source_reach_mobile": 33653732,
+      "source_subregion": ""
+    }
+  ],
+  "fc78f1d4-5e9c-4dee-bbba-2eb045dfb3c9": [
+    {
+      "document_authors": [],
+      "document_city": "Beijing",
+      "document_estimated_views": 66,
+      "document_hashtags": [],
+      "document_hit_sentence": "... 动，也因其体量规模之大。作为对比，阳光电源2023年全年的储能系统全球发货10.5GWh，为其带来营收178亿元；特斯拉旗下的能源子公司Tesla Energy日前宣布，其2024年二季度部署了9.4GWh的电池储能产品。而阳光电源单个签约项目的体量便与其接近。\n\n值得一提的是 ...",
+      "document_id": "U7CszPxU9mHqini70XEnI0nXfvg",
+      "document_image_link": "",
+      "document_key_phrases": [
+        "上海报道",
+        "世纪经济报道记者 费心",
+        "中东等海外市场",
+        "二级市场",
+        "元；特斯拉旗下",
+        "加快经济多元化",
+        "另一大型项目",
+        "合同",
+        "市场空间",
+        "新能源项目"
+      ],
+      "document_language_code": "zh-Hans",
+      "document_location_approximate": {
+        "city": {
+          "latitude": 39.9075,
+          "longitude": 116.39723,
+          "name": "Beijing"
+        },
+        "region": {
+          "latitude": 39.91691,
+          "longitude": 116.39706,
+          "name": "Beijing"
+        }
+      },
+      "document_matched_keywords": [
+        "Tesla"
+      ],
+      "document_media_type": "news",
+      "document_opening_text": "... 21世纪经济报道记者 费心懿 上海报道 光伏“千亿市值俱乐部”最后一名成员正在不断拉开与后方玩家的差距。 7月16日，阳光电源（300274.SZ）午盘后股价拉升走强，最高涨幅超10%。截至收盘，该股报70.31元/股，最新市值超过1458亿元。消息面上，今日午间，阳光电源 ...",
+      "document_publish_date": "2024-07-16T07:58:19.000Z",
+      "document_region": "Beijing",
+      "document_sentiment": "neutral",
+      "document_social_echo_facebook": 0,
+      "document_social_echo_reddit": 0,
+      "document_social_echo_twitter": 0,
+      "document_tags": [],
+      "document_title": "阳光电源“收割”史上最大储能订单，沙特储能市场空间继续放大",
+      "document_url": "https://www.163.com/dy/article/J77T5NF705199NPP.html",
+      "document_visibility": "public",
+      "metadata": {
+        "company_id": "586f71c24f2f0b4bcdc47ba1",
+        "hook_id": "56db4d334fabcb468649cf2849bfe0a59ba836f8",
+        "search_id": 25231135,
+        "search_name": "API Session",
+        "template": "legacy.streaming"
+      },
+      "source_ave": 374648.13425,
+      "source_country_code": "cn",
+      "source_id": "683768CF9AD8EECFD2E847498002CD29",
+      "source_information_type": "news",
+      "source_name": "NetEase News / 网易新闻",
+      "source_reach": 40502501,
+      "source_reach_desktop": 24577810,
+      "source_reach_mobile": 15924691,
+      "source_subregion": ""
+    }
+  ],
+  "40e83336-77df-489e-98da-8ee564dd98b4": [
+    {
+      "document_authors": [],
+      "document_city": "",
+      "document_estimated_views": 1082,
+      "document_hashtags": [],
+      "document_hit_sentence": "... 情】NVIDIA Tesla A100 40G 显卡 ，近日在商家“成都强川科技有限公司”特价促销，优惠价为80000元，好物好价，值得您入手！感兴趣的朋友可直接前往成都市武侯区一环路南二段2号新世纪商业中心东17楼B座详询，关于 NVIDIA Tesla A100 40G 显 ...",
+      "document_id": "kv9Wzn6eB_50T1Bk2e0oLYnhWS8",
+      "document_image_link": "https://pro-fd.zol-img.com.cn/t_s400x300c4/g7/M00/07/0F/ChMkLGNscY-IQ8_PAAB1RDwNn84AAJfDwO_HcwAAHVc174.jpg",
+      "document_key_phrases": [
+        "世纪商业中心东",
+        "主要参数解读： 显",
+        "产品名称",
+        "价格采集日期",
+        "优惠价",
+        "促销信息",
+        "参考价格",
+        "商品",
+        "商家",
+        "商家名称： 成都"
+      ],
+      "document_language_code": "zh-Hans",
+      "document_location_approximate": {
+        "region": {
+          "latitude": 39.91691,
+          "longitude": 116.39706,
+          "name": "Beijing"
+        }
+      },
+      "document_matched_keywords": [
+        "Tesla"
+      ],
+      "document_media_type": "news",
+      "document_opening_text": "... 【中关村在线四川行情】NVIDIA Tesla A100 40G 显卡 ，近日在商家“成都强川科技有限公司”特价促销，优惠价为80000元，好物好价，值得您入手！感兴趣的朋友可直接前往成都市武侯区一环路南二段2号新世纪商业中心东17楼B座详询，关于 NVIDIA Tesla ...",
+      "document_publish_date": "2024-07-16T03:34:36.000Z",
+      "document_region": "Beijing",
+      "document_sentiment": "neutral",
+      "document_social_echo_facebook": 0,
+      "document_social_echo_reddit": 0,
+      "document_social_echo_twitter": 0,
+      "document_tags": [],
+      "document_title": "供应英伟达NVIDIA Tesla A100 40G显卡",
+      "document_url": "https://vga.zol.com.cn/884/8847068.html",
+      "document_visibility": "public",
+      "metadata": {
+        "company_id": "586f71c24f2f0b4bcdc47ba1",
+        "hook_id": "56db4d334fabcb468649cf2849bfe0a59ba836f8",
+        "search_id": 25231135,
+        "search_name": "API Session",
+        "template": "legacy.streaming"
+      },
+      "source_ave": 120543.53025,
+      "source_country_code": "cn",
+      "source_id": "58E36F59F7E532ACACF9CB6EF1AB91B9",
+      "source_information_type": "news",
+      "source_name": "中关村在线",
+      "source_reach": 13031733,
+      "source_reach_desktop": 7048316,
+      "source_reach_mobile": 5983417,
+      "source_subregion": ""
+    }
+  ],
+  "ba56c48b-4f32-4ef7-9ad2-7b84afaf399e": [
+    {
+      "document_authors": [],
+      "document_city": "",
+      "document_hashtags": [],
+      "document_hit_sentence": "... 馬斯克對於延後推出Robotaxi表示，時間更多也能讓我們有餘裕拿出更好的東西。（圖／路透）\n\n文／中央社\n\n特斯拉（Tesla）執行長馬斯克（Elon Musk）今天表示，由於需納進一項車輛前方的重要設計變更，順帶「秀出一些新意」，因此自駕計程車（Robotaxi）推出時間順 ...",
+      "document_id": "T38lcOck5-anPEBkBgqPLM-YTqk",
+      "document_image_link": "",
+      "document_key_phrases": [
+        "一項車輛",
+        "今天",
+        "今年",
+        "何時",
+        "披露",
+        "時間",
+        "更多也能",
+        "東西",
+        "細節都不",
+        "重要設計"
+      ],
+      "document_language_code": "zh-Hant",
+      "document_location_approximate": {},
+      "document_matched_keywords": [
+        "Tesla"
+      ],
+      "document_media_type": "news",
+      "document_opening_text": "... ▲馬斯克對於延後推出Robotaxi表示，時間更多也能讓我們有餘裕拿出更好的東西。（圖／路透） 文／中央社 特斯拉（Tesla）執行長馬斯克（Elon Musk）今天表示，由於需納進一項車輛前方的重要設計變更，順帶「秀出一些新意」，因此自駕計程車（Robotaxi）推出時間 ...",
+      "document_publish_date": "2024-07-16T08:14:18.185Z",
+      "document_region": "",
+      "document_sentiment": "neutral",
+      "document_social_echo_facebook": 0,
+      "document_social_echo_reddit": 0,
+      "document_social_echo_twitter": 0,
+      "document_tags": [],
+      "document_title": "特斯拉Robotaxi延後推出！ 馬斯克曝原因：拿出更好的東西",
+      "document_url": "https://www.bg3.co/a/te-si-la-robotaxiyan-hou-tui-chu-ma-si-ke-pu-yuan-yin-na-chu-geng-hao-de-dong-xi.html",
+      "document_visibility": "public",
+      "metadata": {
+        "company_id": "586f71c24f2f0b4bcdc47ba1",
+        "hook_id": "56db4d334fabcb468649cf2849bfe0a59ba836f8",
+        "search_id": 25231135,
+        "search_name": "API Session",
+        "template": "legacy.streaming"
+      },
+      "source_ave": 5687.418000000001,
+      "source_country_code": "cn",
+      "source_id": "EF71363771C90BBA903767CDCAA457A9",
+      "source_information_type": "news",
+      "source_name": "BG3 - 天天要聞",
+      "source_reach": 614856,
+      "source_reach_desktop": 134579,
+      "source_reach_mobile": 480277,
+      "source_subregion": ""
+    }
+  ],
+  "c7b0ebf5-10b8-4c34-93c2-7a622a3a055a": [
+    {
+      "document_authors": [],
+      "document_city": "Beijing",
+      "document_estimated_views": 66,
+      "document_hashtags": [],
+      "document_hit_sentence": "... 动，也因其体量规模之大。作为对比，阳光电源2023年全年的储能系统全球发货10.5GWh，为其带来营收178亿元；特斯拉旗下的能源子公司Tesla Energy日前宣布，其2024年二季度部署了9.4GWh的电池储能产品。而阳光电源单个签约项目的体量便与其接近。\n\n值得一提的是 ...",
+      "document_id": "U7CszPxU9mHqini70XEnI0nXfvg",
+      "document_image_link": "",
+      "document_key_phrases": [
+        "上海报道",
+        "世纪经济报道记者 费心",
+        "中东等海外市场",
+        "二级市场",
+        "元；特斯拉旗下",
+        "加快经济多元化",
+        "另一大型项目",
+        "合同",
+        "市场空间",
+        "新能源项目"
+      ],
+      "document_language_code": "zh-Hans",
+      "document_location_approximate": {
+        "city": {
+          "latitude": 39.9075,
+          "longitude": 116.39723,
+          "name": "Beijing"
+        },
+        "region": {
+          "latitude": 39.91691,
+          "longitude": 116.39706,
+          "name": "Beijing"
+        }
+      },
+      "document_matched_keywords": [
+        "Tesla"
+      ],
+      "document_media_type": "news",
+      "document_opening_text": "... 21世纪经济报道记者 费心懿 上海报道 光伏“千亿市值俱乐部”最后一名成员正在不断拉开与后方玩家的差距。 7月16日，阳光电源（300274.SZ）午盘后股价拉升走强，最高涨幅超10%。截至收盘，该股报70.31元/股，最新市值超过1458亿元。消息面上，今日午间，阳光电源 ...",
+      "document_publish_date": "2024-07-16T07:58:19.000Z",
+      "document_region": "Beijing",
+      "document_sentiment": "neutral",
+      "document_social_echo_facebook": 0,
+      "document_social_echo_reddit": 0,
+      "document_social_echo_twitter": 0,
+      "document_tags": [],
+      "document_title": "阳光电源“收割”史上最大储能订单，沙特储能市场空间继续放大",
+      "document_url": "https://www.163.com/dy/article/J77T5NF705199NPP.html",
+      "document_visibility": "public",
+      "metadata": {
+        "company_id": "586f71c24f2f0b4bcdc47ba1",
+        "hook_id": "56db4d334fabcb468649cf2849bfe0a59ba836f8",
+        "search_id": 25231135,
+        "search_name": "API Session",
+        "template": "legacy.streaming"
+      },
+      "source_ave": 374648.13425,
+      "source_country_code": "cn",
+      "source_id": "683768CF9AD8EECFD2E847498002CD29",
+      "source_information_type": "news",
+      "source_name": "NetEase News / 网易新闻",
+      "source_reach": 40502501,
+      "source_reach_desktop": 24577810,
+      "source_reach_mobile": 15924691,
+      "source_subregion": ""
+    }
+  ],
+  "1b2ad0cd-a4d6-4e9d-931a-1fc652d31302": [
+    {
+      "document_authors": [],
+      "document_city": "",
+      "document_estimated_views": 1082,
+      "document_hashtags": [],
+      "document_hit_sentence": "... 川行情】NVIDIA Tesla A800 80G 显卡 ，近日在商家“成都强川科技有限公司”特价促销，优惠价为145000元，好物好价，值得您入手！感兴趣的朋友可直接前往成都市武侯区一环路南二段2号新世纪商业中心东17楼B座详询，关于 NVIDIA Tesla A800 ...",
+      "document_id": "to7xU_5cfbnyHLwTN-MO9Wkdz5k",
+      "document_image_link": "https://pro-fd.zol-img.com.cn/t_s400x300c4/g7/M00/09/0C/ChMkLGOW5CmIGunZAAB3b9efiXcAAKmbgKytnMAAHeH871.jpg",
+      "document_key_phrases": [
+        "世纪商业中心东",
+        "主要参数解读： 显",
+        "产品名称",
+        "价格采集日期",
+        "优惠价",
+        "促销信息",
+        "参考价格",
+        "商品",
+        "商家",
+        "商家名称： 成都"
+      ],
+      "document_language_code": "zh-Hans",
+      "document_location_approximate": {
+        "region": {
+          "latitude": 39.91691,
+          "longitude": 116.39706,
+          "name": "Beijing"
+        }
+      },
+      "document_matched_keywords": [
+        "Tesla"
+      ],
+      "document_media_type": "news",
+      "document_opening_text": "... 【中关村在线四川行情】NVIDIA Tesla A800 80G 显卡 ，近日在商家“成都强川科技有限公司”特价促销，优惠价为145000元，好物好价，值得您入手！感兴趣的朋友可直接前往成都市武侯区一环路南二段2号新世纪商业中心东17楼B座详询，关于 NVIDIA Tesla ...",
+      "document_publish_date": "2024-07-16T03:34:52.000Z",
+      "document_region": "Beijing",
+      "document_sentiment": "neutral",
+      "document_social_echo_facebook": 0,
+      "document_social_echo_reddit": 0,
+      "document_social_echo_twitter": 0,
+      "document_tags": [],
+      "document_title": "英伟达NVIDIA A800 80G高性能GPU 现货",
+      "document_url": "https://vga.zol.com.cn/884/8847066.html",
+      "document_visibility": "public",
+      "metadata": {
+        "company_id": "586f71c24f2f0b4bcdc47ba1",
+        "hook_id": "56db4d334fabcb468649cf2849bfe0a59ba836f8",
+        "search_id": 25231135,
+        "search_name": "API Session",
+        "template": "legacy.streaming"
+      },
+      "source_ave": 120543.53025,
+      "source_country_code": "cn",
+      "source_id": "58E36F59F7E532ACACF9CB6EF1AB91B9",
+      "source_information_type": "news",
+      "source_name": "中关村在线",
+      "source_reach": 13031733,
+      "source_reach_desktop": 7048316,
+      "source_reach_mobile": 5983417,
+      "source_subregion": ""
+    }
+  ]
+}
