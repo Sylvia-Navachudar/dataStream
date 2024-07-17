@@ -1,82 +1,4 @@
 {
-  "a5d9f84f-931b-41c5-ae69-685bd0d62931": [
-    {
-      "source_reach": 712,
-      "source_id": "C054DBBA56E1722EFEC5BF468DF229E8",
-      "source_name": "Myinforms",
-      "source_country_code": "us",
-      "source_subregion": "Pennsylvania",
-      "source_ave": 6.59,
-      "metadata": {
-        "search_name": "hello",
-        "search_id": 1234,
-        "hook_id": "0a815fa3ee87489de1b932f178541f80c1f1038c",
-        "company_id": "company_id"
-      },
-      "source_information_type": "news",
-      "document_url": "http://myinforms.com/en-us/a/43897824-musk-throws-pie-at-naysayers-as-tesla-posts-rare-profit/",
-      "document_title": "Musk Throws 'Pie' at Naysayers as Tesla Posts Rare Profit",
-      "document_sentiment": "negative",
-      "document_publish_date": "2016-02-01T05:10:14.371Z",
-      "document_language_code": "en",
-      "document_key_phrases": [
-        "fourth quarter"
-      ],
-      "document_opening_text": "Tesla Motors Inc. posted an unexpected profit.",
-      "document_image_link": "http://i1.myinforms.com/300x200/default.jpg",
-      "document_id": "MweugEjvEhiuFbQQmid40Gs1Y-I",
-      "document_hit_sentence": "Musk Throws 'Pie'",
-      "document_matched_keywords": [
-        "Musk",
-        "Tesla"
-      ],
-      "document_authors": [
-        {
-          "name": "John Doe",
-          "author_information_type": "news"
-        }
-      ]
-    }
-  ],
-  "935ff7a5-14d5-43de-ac90-696511a6c991": [
-    {
-      "source_reach": 712,
-      "source_id": "C054DBBA56E1722EFEC5BF468DF229E8",
-      "source_name": "Myinforms",
-      "source_country_code": "us",
-      "source_subregion": "Pennsylvania",
-      "source_ave": 6.59,
-      "metadata": {
-        "search_name": "hello",
-        "search_id": 1234,
-        "hook_id": "0a815fa3ee87489de1b932f178541f80c1f1038c",
-        "company_id": "company_id"
-      },
-      "source_information_type": "news",
-      "document_url": "http://myinforms.com/en-us/a/43897824-musk-throws-pie-at-naysayers-as-tesla-posts-rare-profit/",
-      "document_title": "Musk Throws 'Pie' at Naysayers as Tesla Posts Rare Profit",
-      "document_sentiment": "negative",
-      "document_publish_date": "2016-02-01T05:10:14.371Z",
-      "document_language_code": "en",
-      "document_key_phrases": [
-        "fourth quarter"
-      ],
-      "document_opening_text": "Tesla Motors Inc. posted an unexpected profit.",
-      "document_image_link": "http://i1.myinforms.com/300x200/default.jpg",
-      "document_id": "MweugEjvEhiuFbQQmid40Gs1Y-I",
-      "document_hit_sentence": "Musk Throws 'Pie'",
-      "document_matched_keywords": [
-        "Musk",
-        "Tesla"
-      ],
-      "document_authors": [
-        {
-          "name": "John Doe",
-          "author_information_type": "news"
-        }
-      ]
-    }
-  ],
   "ac07ab34-37ac-4f68-a7eb-3d1697a0acf3": [
     {
       "document_authors": [],
@@ -678,5 +600,2769 @@
       "source_reach_mobile": 5983417,
       "source_subregion": ""
     }
-  ]
+  ],
+  "0b71214f-2685-44a2-984b-f6441e393ad1": [
+    {
+      "document_authors": [],
+      "document_city": "",
+      "document_estimated_views": 740,
+      "document_hashtags": [],
+      "document_hit_sentence": "... 台投送指令远程指挥。”上述业内人士告诉《IT时报》记者，这需要更多的测试及数据做算法测试。\n\n根据特斯拉2024年一季度发布的数据，使用Tesla Autopilot自动辅助驾驶功能的车辆平均每1228万公里发生一次碰撞事故，显示出比人类驾驶更高的安全性。但中国道路的复杂情况远 ...",
+      "document_id": "-m6ftCEzODN5SzBnlRPuyJglqgg",
+      "document_image_link": "https://img.36krcdn.com/hsossms/20240716/v2_fadcc57cdf344952945fdcde010cf063@000000_oswg2676741oswg1792oswg1024_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "document_key_phrases": [
+        "一定保险经验",
+        "上海最快下周",
+        "两次萝卜快跑，体验",
+        "交通情况",
+        "交通规则",
+        "人类司机，公众",
+        "企押注保险",
+        "但从技术层面来看",
+        "保险",
+        "保险公司，但在眼下"
+      ],
+      "document_language_code": "zh-Hans",
+      "document_location_approximate": {},
+      "document_matched_keywords": [
+        "Tesla"
+      ],
+      "document_media_type": "news",
+      "document_opening_text": "四问无人驾驶：商业化拐点还未到来",
+      "document_publish_date": "2024-07-15T23:42:35.000Z",
+      "document_region": "",
+      "document_sentiment": "neutral",
+      "document_social_echo_facebook": 0,
+      "document_social_echo_reddit": 0,
+      "document_social_echo_twitter": 0,
+      "document_tags": [],
+      "document_title": "无人驾驶5年内抢不了司机“饭碗”，上海最快下周开放无人驾驶汽车公测",
+      "document_url": "https://36kr.com/p/2864501660437126",
+      "document_visibility": "public",
+      "metadata": {
+        "company_id": "586f71c24f2f0b4bcdc47ba1",
+        "hook_id": "56db4d334fabcb468649cf2849bfe0a59ba836f8",
+        "search_id": 25231135,
+        "search_name": "API Session",
+        "template": "legacy.streaming"
+      },
+      "source_ave": 19849.56575,
+      "source_country_code": "cn",
+      "source_id": "01BB70E1819E0A5687E8260FFD79F1AB",
+      "source_information_type": "news",
+      "source_name": "36Kr",
+      "source_reach": 2145899,
+      "source_reach_desktop": 1621323,
+      "source_reach_mobile": 524576,
+      "source_subregion": ""
+    }
+  ],
+  "b7b92080-e759-49d6-ba3a-3a4d5bfd04ec": [
+    {
+      "document_authors": [],
+      "document_city": "",
+      "document_estimated_views": 171,
+      "document_hashtags": [],
+      "document_hit_sentence": "... 动，也因其体量规模之大。作为对比，阳光电源2023年全年的储能系统全球发货10.5GWh，为其带来营收178亿元；特斯拉旗下的能源子公司Tesla Energy日前宣布，其2024年二季度部署了9.4GWh的电池储能产品。而阳光电源单个签约项目的体量便与其接近。\n\n值得一提的是 ...",
+      "document_id": "v1e2r6g0afAoQrcfFbKE4oRNNj0",
+      "document_image_link": "",
+      "document_key_phrases": [
+        "2gwh项目",
+        "上海报道",
+        "世纪经济报道记者 费心",
+        "中东等海外市场",
+        "二级市场",
+        "元；特斯拉旗下",
+        "加快经济多元化",
+        "另一大型项目",
+        "市场空间",
+        "新能源项目"
+      ],
+      "document_language_code": "zh-Hans",
+      "document_location_approximate": {
+        "region": {
+          "latitude": 23.5,
+          "longitude": 113.25,
+          "name": "Guangdong"
+        }
+      },
+      "document_matched_keywords": [
+        "Tesla"
+      ],
+      "document_media_type": "news",
+      "document_opening_text": "沙特制定了2024年到2025年24GWh的电池储能项目计划。",
+      "document_publish_date": "2024-07-16T07:47:00.000Z",
+      "document_region": "Guangdong",
+      "document_sentiment": "neutral",
+      "document_social_echo_facebook": 0,
+      "document_social_echo_reddit": 0,
+      "document_social_echo_twitter": 0,
+      "document_tags": [],
+      "document_title": "阳光电源“收割”史上最大储能订单，沙特储能市场空间继续放大",
+      "document_url": "https://www.21jingji.com/article/20240716/herald/1bd7cc6ac0d52dd6bdb6a42071a82fd3.html",
+      "document_visibility": "public",
+      "metadata": {
+        "company_id": "586f71c24f2f0b4bcdc47ba1",
+        "hook_id": "56db4d334fabcb468649cf2849bfe0a59ba836f8",
+        "search_id": 25231135,
+        "search_name": "API Session",
+        "template": "legacy.streaming"
+      },
+      "source_ave": 3326.60525,
+      "source_country_code": "cn",
+      "source_id": "42E679B567D0A486E8F3FDFFC724A425",
+      "source_information_type": "news",
+      "source_name": "21经济网",
+      "source_reach": 359633,
+      "source_reach_desktop": 291565,
+      "source_reach_mobile": 68068,
+      "source_subregion": ""
+    }
+  ],
+  "f8fef62d-93fd-45cc-9c12-c0ba0b87dd06": [
+    {
+      "document_authors": [],
+      "document_city": "",
+      "document_estimated_views": 111,
+      "document_hashtags": [],
+      "document_hit_sentence": "... 动，也因其体量规模之大。作为对比，阳光电源2023年全年的储能系统全球发货10.5GWh，为其带来营收178亿元；特斯拉旗下的能源子公司Tesla Energy日前宣布，其2024年二季度部署了9.4GWh的电池储能产品。而阳光电源单个签约项目的体量便与其接近。\n\n值得一提的是 ...",
+      "document_id": "Wraq2YeIrwr8jTZRJXVGgwax9Uc",
+      "document_image_link": "https://comment.10jqka.com.cn/sourcepic/12/MjHKwLzNvq28w7GotcAtsay.png",
+      "document_key_phrases": [
+        "中东等海外市场",
+        "二级市场",
+        "元；特斯拉旗下",
+        "另一大型项目",
+        "合同",
+        "市场空间",
+        "新能源项目",
+        "最大储",
+        "沙特储",
+        "沙特政府加大力度"
+      ],
+      "document_language_code": "zh-Hans",
+      "document_location_approximate": {},
+      "document_matched_keywords": [
+        "Tesla"
+      ],
+      "document_media_type": "news",
+      "document_opening_text": "... 记者 费心懿 上海报道 光伏“千亿市值俱乐部”最后一名成员正在不断拉开与后方玩家的差距。 7月16日， 阳光电源 （ 300274 ）（300274.SZ）午盘后股价拉升走强，最高涨幅超10%。截至收盘，该股报70.31元/股，最新市值超过1458亿元。消息面上，今日午间， ...",
+      "document_publish_date": "2024-07-16T07:55:01.000Z",
+      "document_region": "",
+      "document_sentiment": "neutral",
+      "document_social_echo_facebook": 0,
+      "document_social_echo_reddit": 0,
+      "document_social_echo_twitter": 0,
+      "document_tags": [],
+      "document_title": "阳光电源“收割”史上最大储能订单，沙特储能市场空间继续放大",
+      "document_url": "https://news.10jqka.com.cn/20240716/c659844431.shtml",
+      "document_visibility": "public",
+      "metadata": {
+        "company_id": "586f71c24f2f0b4bcdc47ba1",
+        "hook_id": "56db4d334fabcb468649cf2849bfe0a59ba836f8",
+        "search_id": 25231135,
+        "search_name": "API Session",
+        "template": "legacy.streaming"
+      },
+      "source_ave": 21108.60175,
+      "source_country_code": "cn",
+      "source_id": "3A6B69B931E2DF5D3B727EE995C5B90A",
+      "source_information_type": "news",
+      "source_name": "同花顺财经",
+      "source_reach": 2282011,
+      "source_reach_desktop": 1435313,
+      "source_reach_mobile": 846698,
+      "source_subregion": ""
+    }
+  ],
+  "1694f6a2-9fd9-4cf3-9db3-e7279e76cf0f": [
+    {
+      "document_authors": [],
+      "document_city": "",
+      "document_hashtags": [],
+      "document_hit_sentence": "... Assurance, SVW Shivam SRIVASTAVA, Inspection and Testing Manager, Tesla\n\nThe International Expert Group will serve as a bridge, fostering ...",
+      "document_id": "fXpab2JNE4Y061i9JBu3ZXR1L_c",
+      "document_image_link": "https://storage.googleapis.com/mmstudio-images/gallery/F8mzp8jWKeWkjCVGU0J4n1j4tZV2/89135363-1721017917-1.jpg",
+      "document_key_phrases": [
+        "active safety",
+        "assessment research",
+        "assessment standards",
+        "automotive assessment technologies",
+        "broader international perspectives",
+        "caeri automotive index initiatives",
+        "caeri's position",
+        "conference",
+        "continued international development",
+        "core assessment systems"
+      ],
+      "document_language_code": "en",
+      "document_location_approximate": {},
+      "document_matched_keywords": [
+        "Tesla"
+      ],
+      "document_media_type": "news",
+      "document_opening_text": "Establishment of International Expert Group: Another Breakthrough for CAERI Automotive Index Globalization",
+      "document_publish_date": "2024-07-15T23:59:59.000Z",
+      "document_region": "",
+      "document_sentiment": "positive",
+      "document_social_echo_facebook": 0,
+      "document_social_echo_reddit": 0,
+      "document_social_echo_twitter": 0,
+      "document_tags": [],
+      "document_title": "Establishment of International Expert Group: Another Breakthrough for CAERI Automotive Index Globalization",
+      "document_url": "https://orientalnewstoday.com/news/establishment-of-international-expert-group-another-breakthrough-for-caeri-automotive-index-globalization/480997",
+      "document_visibility": "public",
+      "metadata": {
+        "company_id": "586f71c24f2f0b4bcdc47ba1",
+        "hook_id": "56db4d334fabcb468649cf2849bfe0a59ba836f8",
+        "search_id": 25231135,
+        "search_name": "API Session",
+        "template": "legacy.streaming"
+      },
+      "source_ave": 0,
+      "source_country_code": "cn",
+      "source_id": "FC0E35F5EBFD9FAE68374B522A80B0D0",
+      "source_information_type": "news",
+      "source_name": "Oriental News Today",
+      "source_reach": 0,
+      "source_reach_desktop": 0,
+      "source_reach_mobile": 0,
+      "source_subregion": ""
+    }
+  ],
+  "61d69ba0-61eb-4111-95d5-e9be73471567": [
+    {
+      "document_authors": [],
+      "document_city": "",
+      "document_estimated_views": 1082,
+      "document_hashtags": [],
+      "document_hit_sentence": "... 川行情】NVIDIA Tesla A100 80G 显卡 ，近日在商家“成都强川科技有限公司”特价促销，优惠价为160000元，好物好价，值得您入手！感兴趣的朋友可直接前往成都市武侯区一环路南二段2号新世纪商业中心东17楼B座详询，关于NVIDIA Tesla A100 80G ...",
+      "document_id": "csH4YUuCFnJ0jECkigWd-hQb4qE",
+      "document_image_link": "https://pro-fd.zol-img.com.cn/t_s400x300c4/g7/M00/07/0F/ChMkLGNscY-IQ8_PAAB1RDwNn84AAJfDwO_HcwAAHVc174.jpg",
+      "document_key_phrases": [
+        "世纪商业中心东",
+        "主要参数解读： 显",
+        "产品名称",
+        "价格采集日期",
+        "优惠价",
+        "促销信息",
+        "参考价格",
+        "商品",
+        "商家",
+        "商家名称： 成都"
+      ],
+      "document_language_code": "zh-Hans",
+      "document_location_approximate": {
+        "region": {
+          "latitude": 39.91691,
+          "longitude": 116.39706,
+          "name": "Beijing"
+        }
+      },
+      "document_matched_keywords": [
+        "Tesla"
+      ],
+      "document_media_type": "news",
+      "document_opening_text": "... 【中关村在线四川行情】NVIDIA Tesla A100 80G 显卡 ，近日在商家“成都强川科技有限公司”特价促销，优惠价为160000元，好物好价，值得您入手！感兴趣的朋友可直接前往成都市武侯区一环路南二段2号新世纪商业中心东17楼B座详询，关于NVIDIA Tesla ...",
+      "document_publish_date": "2024-07-16T03:34:45.000Z",
+      "document_region": "Beijing",
+      "document_sentiment": "neutral",
+      "document_social_echo_facebook": 0,
+      "document_social_echo_reddit": 0,
+      "document_social_echo_twitter": 0,
+      "document_tags": [],
+      "document_title": "英伟达NVIDIA Tesla A100 80G 现货",
+      "document_url": "https://vga.zol.com.cn/884/8847067.html",
+      "document_visibility": "public",
+      "metadata": {
+        "company_id": "586f71c24f2f0b4bcdc47ba1",
+        "hook_id": "56db4d334fabcb468649cf2849bfe0a59ba836f8",
+        "search_id": 25231135,
+        "search_name": "API Session",
+        "template": "legacy.streaming"
+      },
+      "source_ave": 120543.53025,
+      "source_country_code": "cn",
+      "source_id": "58E36F59F7E532ACACF9CB6EF1AB91B9",
+      "source_information_type": "news",
+      "source_name": "中关村在线",
+      "source_reach": 13031733,
+      "source_reach_desktop": 7048316,
+      "source_reach_mobile": 5983417,
+      "source_subregion": ""
+    }
+  ],
+  "9adf5811-854c-444a-85be-67aa78264109": [
+    {
+      "document_authors": [],
+      "document_city": "",
+      "document_estimated_views": 1082,
+      "document_hashtags": [],
+      "document_hit_sentence": "... 川行情】NVIDIA Tesla A100 80G 显卡 ，近日在商家“成都强川科技有限公司”特价促销，优惠价为160000元，好物好价，值得您入手！感兴趣的朋友可直接前往成都市武侯区一环路南二段2号新世纪商业中心东17楼B座详询，关于NVIDIA Tesla A100 80G ...",
+      "document_id": "csH4YUuCFnJ0jECkigWd-hQb4qE",
+      "document_image_link": "https://pro-fd.zol-img.com.cn/t_s400x300c4/g7/M00/07/0F/ChMkLGNscY-IQ8_PAAB1RDwNn84AAJfDwO_HcwAAHVc174.jpg",
+      "document_key_phrases": [
+        "世纪商业中心东",
+        "主要参数解读： 显",
+        "产品名称",
+        "价格采集日期",
+        "优惠价",
+        "促销信息",
+        "参考价格",
+        "商品",
+        "商家",
+        "商家名称： 成都"
+      ],
+      "document_language_code": "zh-Hans",
+      "document_location_approximate": {
+        "region": {
+          "latitude": 39.91691,
+          "longitude": 116.39706,
+          "name": "Beijing"
+        }
+      },
+      "document_matched_keywords": [
+        "Tesla"
+      ],
+      "document_media_type": "news",
+      "document_opening_text": "... 【中关村在线四川行情】NVIDIA Tesla A100 80G 显卡 ，近日在商家“成都强川科技有限公司”特价促销，优惠价为160000元，好物好价，值得您入手！感兴趣的朋友可直接前往成都市武侯区一环路南二段2号新世纪商业中心东17楼B座详询，关于NVIDIA Tesla ...",
+      "document_publish_date": "2024-07-16T03:34:45.000Z",
+      "document_region": "Beijing",
+      "document_sentiment": "neutral",
+      "document_social_echo_facebook": 0,
+      "document_social_echo_reddit": 0,
+      "document_social_echo_twitter": 0,
+      "document_tags": [],
+      "document_title": "英伟达NVIDIA Tesla A100 80G 现货",
+      "document_url": "https://vga.zol.com.cn/884/8847067.html",
+      "document_visibility": "public",
+      "metadata": {
+        "company_id": "586f71c24f2f0b4bcdc47ba1",
+        "hook_id": "56db4d334fabcb468649cf2849bfe0a59ba836f8",
+        "search_id": 25231135,
+        "search_name": "API Session",
+        "template": "legacy.streaming"
+      },
+      "source_ave": 120543.53025,
+      "source_country_code": "cn",
+      "source_id": "58E36F59F7E532ACACF9CB6EF1AB91B9",
+      "source_information_type": "news",
+      "source_name": "中关村在线",
+      "source_reach": 13031733,
+      "source_reach_desktop": 7048316,
+      "source_reach_mobile": 5983417,
+      "source_subregion": ""
+    }
+  ],
+  "b1424b30-9dc7-4346-ad1e-e86e77509eb5": [
+    {
+      "document_authors": [
+        {
+          "author_external_id": "1460162329086103558",
+          "author_information_type": "social",
+          "author_profile_url": "",
+          "name": ""
+        }
+      ],
+      "document_city": "",
+      "document_external_id": "1813128598460768324",
+      "document_hashtags": [],
+      "document_hit_sentence": "",
+      "document_id": "1721118518000_x-U0emkIldxbkJKJsJqy6xhLoe8A",
+      "document_image_link": "",
+      "document_key_phrases": [
+        "automaker",
+        "event"
+      ],
+      "document_language_code": "en",
+      "document_location_approximate": {},
+      "document_matched_keywords": [
+        "tesla"
+      ],
+      "document_media_type": "microblog",
+      "document_opening_text": "",
+      "document_publish_date": "2024-07-16T08:28:38.000Z",
+      "document_region": "",
+      "document_sentiment": "neutral",
+      "document_tags": [],
+      "document_title": "",
+      "document_url": "",
+      "document_visibility": "public",
+      "metadata": {
+        "company_id": "586f71c24f2f0b4bcdc47ba1",
+        "hook_id": "56db4d334fabcb468649cf2849bfe0a59ba836f8",
+        "search_id": 25231135,
+        "search_name": "API Session",
+        "template": "legacy.streaming"
+      },
+      "source_ave": 58.50625,
+      "source_country_code": "cn",
+      "source_id": "79B33CA8FEBCB17FF4B2C3B9967C49DD",
+      "source_information_type": "social",
+      "source_name": "twitter",
+      "source_reach": 6325,
+      "source_subregion": ""
+    }
+  ],
+  "19c89409-eb2a-42c0-81bb-b9a283e5ef46": [
+    {
+      "document_authors": [
+        {
+          "author_external_id": "1460162329086103558",
+          "author_information_type": "social",
+          "author_profile_url": "",
+          "name": ""
+        }
+      ],
+      "document_city": "",
+      "document_external_id": "1813128594929164532",
+      "document_hashtags": [],
+      "document_hit_sentence": "",
+      "document_id": "1721118517000_biO6-LKbtWwJsI-oVC2xduYz0DMA",
+      "document_image_link": "https://pbs.twimg.com/media/GSmGwBSbgAAr7Gz.png",
+      "document_key_phrases": [
+        "automaker",
+        "important design change",
+        "show",
+        "vehicle"
+      ],
+      "document_language_code": "en",
+      "document_location_approximate": {},
+      "document_matched_keywords": [
+        "tesla",
+        "Tesla"
+      ],
+      "document_media_type": "microblog",
+      "document_opening_text": "",
+      "document_publish_date": "2024-07-16T08:28:37.000Z",
+      "document_region": "",
+      "document_sentiment": "neutral",
+      "document_tags": [],
+      "document_title": "",
+      "document_url": "",
+      "document_visibility": "public",
+      "metadata": {
+        "company_id": "586f71c24f2f0b4bcdc47ba1",
+        "hook_id": "56db4d334fabcb468649cf2849bfe0a59ba836f8",
+        "search_id": 25231135,
+        "search_name": "API Session",
+        "template": "legacy.streaming"
+      },
+      "source_ave": 58.50625,
+      "source_country_code": "cn",
+      "source_id": "79B33CA8FEBCB17FF4B2C3B9967C49DD",
+      "source_information_type": "social",
+      "source_name": "twitter",
+      "source_reach": 6325,
+      "source_subregion": ""
+    }
+  ],
+  "df0757dd-3f0a-4cbb-87a9-6e926ca06d4e": [
+    {
+      "document_authors": [],
+      "document_city": "",
+      "document_estimated_views": 31,
+      "document_hashtags": [],
+      "document_hit_sentence": "... 动，也因其体量规模之大。作为对比，阳光电源2023年全年的储能系统全球发货10.5GWh，为其带来营收178亿元；特斯拉旗下的能源子公司Tesla Energy日前宣布，其2024年二季度部署了9.4GWh的电池储能产品。而阳光电源单个签约项目的体量便与其接近。 值得一提的是， ...",
+      "document_id": "SpRoJC5tostJy6PhyPrv62fn9Zw",
+      "document_image_link": "https://ishare.ifeng.com/c/s/v002-_L--O7ASe3DclamX3JcSexygCJtgtv8zS6ZxVfRueO5U__",
+      "document_key_phrases": [
+        "世纪经济报道记者 费心",
+        "中东等海外市场",
+        "二级市场",
+        "元；特斯拉旗下",
+        "加快经济多元化",
+        "另一大型项目",
+        "合同",
+        "市场空间",
+        "新能源项目",
+        "最大储"
+      ],
+      "document_language_code": "zh-Hans",
+      "document_location_approximate": {},
+      "document_matched_keywords": [
+        "Tesla"
+      ],
+      "document_media_type": "news",
+      "document_opening_text": "... 21世纪经济报道记者 费心懿 上海报道 光伏“千亿市值俱乐部”最后一名成员正在不断拉开与后方玩家的差距。 7月16日，阳光电源（300274.SZ）午盘后股价拉升走强，最高涨幅超10%。截至收盘，该股报70.31元/股，最新市值超过1458亿元。消息面上，今日午间，阳光电源宣布 ...",
+      "document_publish_date": "2024-07-16T07:47:00.000Z",
+      "document_region": "",
+      "document_sentiment": "neutral",
+      "document_social_echo_facebook": 0,
+      "document_social_echo_reddit": 0,
+      "document_social_echo_twitter": 0,
+      "document_tags": [],
+      "document_title": "阳光电源“收割”史上最大储能订单，沙特储能市场空间继续放大",
+      "document_url": "https://ishare.ifeng.com/c/s/v002-_L--O7ASe3DclamX3JcSexygCJtgtv8zS6ZxVfRueO5U__",
+      "document_visibility": "public",
+      "metadata": {
+        "company_id": "586f71c24f2f0b4bcdc47ba1",
+        "hook_id": "56db4d334fabcb468649cf2849bfe0a59ba836f8",
+        "search_id": 25231135,
+        "search_name": "API Session",
+        "template": "legacy.streaming"
+      },
+      "source_ave": 3350.67375,
+      "source_country_code": "cn",
+      "source_id": "6AF86B19D5650694308ADA0731EFD568",
+      "source_information_type": "news",
+      "source_name": "大风号",
+      "source_reach": 362235,
+      "source_reach_desktop": 1611,
+      "source_reach_mobile": 360624,
+      "source_subregion": ""
+    }
+  ],
+  "f03ddb4f-4fb9-4556-85e4-13433022c2eb": {
+    "documents": [
+      {
+        "author": {
+          "external_id": "1578642841",
+          "handle": null,
+          "name": null,
+          "profile_url": null
+        },
+        "content": {
+          "byline": null,
+          "emojis": null,
+          "hashtags": null,
+          "image": null,
+          "links": null,
+          "mentions": null,
+          "opening_text": null,
+          "title": null
+        },
+        "content_type": "repost",
+        "custom": {
+          "hidden": false,
+          "tags": null,
+          "visible": "public"
+        },
+        "enrichments": {
+          "keyphrases": [
+            "defective software",
+            "drive",
+            "left turn",
+            "public roads",
+            "wrong side"
+          ],
+          "language_code": "en",
+          "sentiment": "negative"
+        },
+        "external_id": "1813133648688017571",
+        "id": "1721119722000_6DjCZISr5bKv2zBIJuLyybUHYIoA",
+        "indexed_date": "2024-07-16T08:50:31.000Z",
+        "location": {
+          "city": null,
+          "country_code": "cn",
+          "geo": {
+            "latitude": 35,
+            "longitude": 105
+          },
+          "region": null,
+          "state": null
+        },
+        "matched": {
+          "hit_sentence": "",
+          "inputs": [
+            {
+              "id": 25231135,
+              "name": "API Session",
+              "type": "search"
+            }
+          ],
+          "keywords": [
+            "Tesla"
+          ]
+        },
+        "metrics": {
+          "editorial_echo": null,
+          "engagement": {
+            "comments": null,
+            "likes": null,
+            "quotes": null,
+            "reactions": null,
+            "replies": null,
+            "reposts": null,
+            "shares": null,
+            "total": null
+          },
+          "estimated_views": null,
+          "social_echo": {
+            "facebook": null,
+            "reddit": null,
+            "total": null,
+            "x": null
+          },
+          "views": null
+        },
+        "parent": {
+          "url": null
+        },
+        "published_date": "2024-07-16T08:48:42.000Z",
+        "source": {
+          "id": "social:twitter",
+          "information_type": "social",
+          "metrics": {
+            "ave": 14.42075,
+            "national_viewership": null,
+            "reach": 1559,
+            "reach_desktop": null,
+            "reach_mobile": null
+          },
+          "name": "Twitter",
+          "outlet_types": null,
+          "type": "social network",
+          "url": null
+        },
+        "thread": {
+          "title": null,
+          "url": null
+        },
+        "url": null
+      }
+    ],
+    "request": {
+      "company_id": "586f71c24f2f0b4bcdc47ba1",
+      "hook_id": "eb68ea61a4d9f64142efa7e50b7a54ab3862bb6f",
+      "inputs": [
+        {
+          "id": 25231135,
+          "name": "API Session",
+          "type": "search"
+        }
+      ],
+      "template": "api.json"
+    }
+  },
+  "73054ba1-a1d1-45b0-b38e-d522c00641ac": {
+    "documents": [
+      {
+        "author": {
+          "external_id": "1578642841",
+          "handle": null,
+          "name": null,
+          "profile_url": null
+        },
+        "content": {
+          "byline": null,
+          "emojis": null,
+          "hashtags": null,
+          "image": null,
+          "links": null,
+          "mentions": null,
+          "opening_text": null,
+          "title": null
+        },
+        "content_type": "reply",
+        "custom": {
+          "hidden": false,
+          "tags": null,
+          "visible": "public"
+        },
+        "enrichments": {
+          "keyphrases": [
+            "reason to ban",
+            "road",
+            "thoughts",
+            "wrong side"
+          ],
+          "language_code": "en",
+          "sentiment": "negative"
+        },
+        "external_id": "1813134218316202096",
+        "id": "1721119858000_-fzG--IiUHzsvUxPFaBsHfeodb8A",
+        "indexed_date": "2024-07-16T08:51:28.000Z",
+        "location": {
+          "city": null,
+          "country_code": "cn",
+          "geo": {
+            "latitude": 35,
+            "longitude": 105
+          },
+          "region": null,
+          "state": null
+        },
+        "matched": {
+          "hit_sentence": "",
+          "inputs": [
+            {
+              "id": 25231135,
+              "name": "API Session",
+              "type": "search"
+            }
+          ],
+          "keywords": [
+            "Tesla"
+          ]
+        },
+        "metrics": {
+          "editorial_echo": null,
+          "engagement": {
+            "comments": null,
+            "likes": null,
+            "quotes": null,
+            "reactions": null,
+            "replies": null,
+            "reposts": null,
+            "shares": null,
+            "total": null
+          },
+          "estimated_views": null,
+          "social_echo": {
+            "facebook": null,
+            "reddit": null,
+            "total": null,
+            "x": null
+          },
+          "views": null
+        },
+        "parent": {
+          "url": null
+        },
+        "published_date": "2024-07-16T08:50:58.000Z",
+        "source": {
+          "id": "social:twitter",
+          "information_type": "social",
+          "metrics": {
+            "ave": 14.42075,
+            "national_viewership": null,
+            "reach": 1559,
+            "reach_desktop": null,
+            "reach_mobile": null
+          },
+          "name": "Twitter",
+          "outlet_types": null,
+          "type": "social network",
+          "url": null
+        },
+        "thread": {
+          "title": null,
+          "url": null
+        },
+        "url": null
+      }
+    ],
+    "request": {
+      "company_id": "586f71c24f2f0b4bcdc47ba1",
+      "hook_id": "eb68ea61a4d9f64142efa7e50b7a54ab3862bb6f",
+      "inputs": [
+        {
+          "id": 25231135,
+          "name": "API Session",
+          "type": "search"
+        }
+      ],
+      "template": "api.json"
+    }
+  },
+  "364e158f-1c09-489d-8bca-f7433a2572f5": {
+    "documents": [
+      {
+        "author": {
+          "external_id": "1740155212642336768",
+          "handle": null,
+          "name": null,
+          "profile_url": null
+        },
+        "content": {
+          "byline": null,
+          "emojis": null,
+          "hashtags": null,
+          "image": null,
+          "links": null,
+          "mentions": null,
+          "opening_text": null,
+          "title": null
+        },
+        "content_type": "reply",
+        "custom": {
+          "hidden": false,
+          "tags": null,
+          "visible": "public"
+        },
+        "enrichments": {
+          "keyphrases": null,
+          "language_code": "zz",
+          "sentiment": "neutral"
+        },
+        "external_id": "1813145913440731487",
+        "id": "1721122647000_8RHdUJzoY1z7cT4qGJiH8YPEccEA",
+        "indexed_date": "2024-07-16T09:37:49.000Z",
+        "location": {
+          "city": null,
+          "country_code": "zz",
+          "geo": null,
+          "region": null,
+          "state": null
+        },
+        "matched": {
+          "hit_sentence": "",
+          "inputs": [
+            {
+              "id": 25231135,
+              "name": "API Session",
+              "type": "search"
+            }
+          ],
+          "keywords": [
+            "tesla"
+          ]
+        },
+        "metrics": {
+          "editorial_echo": null,
+          "engagement": {
+            "comments": null,
+            "likes": null,
+            "quotes": null,
+            "reactions": null,
+            "replies": null,
+            "reposts": null,
+            "shares": null,
+            "total": null
+          },
+          "estimated_views": null,
+          "social_echo": {
+            "facebook": null,
+            "reddit": null,
+            "total": null,
+            "x": null
+          },
+          "views": null
+        },
+        "parent": {
+          "url": null
+        },
+        "published_date": "2024-07-16T09:37:27.000Z",
+        "source": {
+          "id": "social:twitter",
+          "information_type": "social",
+          "metrics": {
+            "ave": 0.39775,
+            "national_viewership": null,
+            "reach": 43,
+            "reach_desktop": null,
+            "reach_mobile": null
+          },
+          "name": "Twitter",
+          "outlet_types": null,
+          "type": "social network",
+          "url": null
+        },
+        "thread": {
+          "title": null,
+          "url": null
+        },
+        "url": null
+      }
+    ],
+    "request": {
+      "company_id": "586f71c24f2f0b4bcdc47ba1",
+      "hook_id": "eb68ea61a4d9f64142efa7e50b7a54ab3862bb6f",
+      "inputs": [
+        {
+          "id": 25231135,
+          "name": "API Session",
+          "type": "search"
+        }
+      ],
+      "template": "api.json"
+    }
+  },
+  "81d500e6-43b2-4434-9a85-e75a30dbcc40": {
+    "documents": [
+      {
+        "author": {
+          "external_id": "973578951221268480",
+          "handle": null,
+          "name": null,
+          "profile_url": null
+        },
+        "content": {
+          "byline": null,
+          "emojis": null,
+          "hashtags": null,
+          "image": null,
+          "links": null,
+          "mentions": null,
+          "opening_text": null,
+          "title": null
+        },
+        "content_type": "repost",
+        "custom": {
+          "hidden": false,
+          "tags": null,
+          "visible": "public"
+        },
+        "enrichments": {
+          "keyphrases": [
+            "networking engineers & technicians"
+          ],
+          "language_code": "en",
+          "sentiment": "neutral"
+        },
+        "external_id": "1813145925352669442",
+        "id": "1721122649000_SykV-Hb2zWwRAAMpl3QRnkW_49oA",
+        "indexed_date": "2024-07-16T09:37:52.000Z",
+        "location": {
+          "city": null,
+          "country_code": "in",
+          "geo": {
+            "latitude": 27.25,
+            "longitude": 80.75
+          },
+          "region": null,
+          "state": null
+        },
+        "matched": {
+          "hit_sentence": "",
+          "inputs": [
+            {
+              "id": 25231135,
+              "name": "API Session",
+              "type": "search"
+            }
+          ],
+          "keywords": [
+            "Tesla"
+          ]
+        },
+        "metrics": {
+          "editorial_echo": null,
+          "engagement": {
+            "comments": null,
+            "likes": null,
+            "quotes": null,
+            "reactions": null,
+            "replies": null,
+            "reposts": null,
+            "shares": null,
+            "total": null
+          },
+          "estimated_views": null,
+          "social_echo": {
+            "facebook": null,
+            "reddit": null,
+            "total": null,
+            "x": null
+          },
+          "views": null
+        },
+        "parent": {
+          "url": null
+        },
+        "published_date": "2024-07-16T09:37:29.000Z",
+        "source": {
+          "id": "social:twitter",
+          "information_type": "social",
+          "metrics": {
+            "ave": 37.157250000000005,
+            "national_viewership": null,
+            "reach": 4017,
+            "reach_desktop": null,
+            "reach_mobile": null
+          },
+          "name": "Twitter",
+          "outlet_types": null,
+          "type": "social network",
+          "url": null
+        },
+        "thread": {
+          "title": null,
+          "url": null
+        },
+        "url": null
+      }
+    ],
+    "request": {
+      "company_id": "586f71c24f2f0b4bcdc47ba1",
+      "hook_id": "eb68ea61a4d9f64142efa7e50b7a54ab3862bb6f",
+      "inputs": [
+        {
+          "id": 25231135,
+          "name": "API Session",
+          "type": "search"
+        }
+      ],
+      "template": "api.json"
+    }
+  },
+  "fe83d77e-2eae-4cb1-a93b-246a4607c3ba": {
+    "documents": [
+      {
+        "author": {
+          "external_id": "1703643345904443392",
+          "handle": null,
+          "name": null,
+          "profile_url": null
+        },
+        "content": {
+          "byline": null,
+          "emojis": null,
+          "hashtags": null,
+          "image": null,
+          "links": null,
+          "mentions": null,
+          "opening_text": null,
+          "title": null
+        },
+        "content_type": "reply",
+        "custom": {
+          "hidden": false,
+          "tags": null,
+          "visible": "public"
+        },
+        "enrichments": {
+          "keyphrases": null,
+          "language_code": "zz",
+          "sentiment": "unknown"
+        },
+        "external_id": "1813145936144556423",
+        "id": "1721122652000_4ykUdD4BHkHQ1W3ySZLvBOL_560A",
+        "indexed_date": "2024-07-16T09:37:52.000Z",
+        "location": {
+          "city": null,
+          "country_code": "zz",
+          "geo": null,
+          "region": null,
+          "state": null
+        },
+        "matched": {
+          "hit_sentence": "",
+          "inputs": [
+            {
+              "id": 25231135,
+              "name": "API Session",
+              "type": "search"
+            }
+          ],
+          "keywords": [
+            "Tesla"
+          ]
+        },
+        "metrics": {
+          "editorial_echo": null,
+          "engagement": {
+            "comments": null,
+            "likes": null,
+            "quotes": null,
+            "reactions": null,
+            "replies": null,
+            "reposts": null,
+            "shares": null,
+            "total": null
+          },
+          "estimated_views": null,
+          "social_echo": {
+            "facebook": null,
+            "reddit": null,
+            "total": null,
+            "x": null
+          },
+          "views": null
+        },
+        "parent": {
+          "url": null
+        },
+        "published_date": "2024-07-16T09:37:32.000Z",
+        "source": {
+          "id": "social:twitter",
+          "information_type": "social",
+          "metrics": {
+            "ave": 0.074,
+            "national_viewership": null,
+            "reach": 8,
+            "reach_desktop": null,
+            "reach_mobile": null
+          },
+          "name": "Twitter",
+          "outlet_types": null,
+          "type": "social network",
+          "url": null
+        },
+        "thread": {
+          "title": null,
+          "url": null
+        },
+        "url": null
+      }
+    ],
+    "request": {
+      "company_id": "586f71c24f2f0b4bcdc47ba1",
+      "hook_id": "eb68ea61a4d9f64142efa7e50b7a54ab3862bb6f",
+      "inputs": [
+        {
+          "id": 25231135,
+          "name": "API Session",
+          "type": "search"
+        }
+      ],
+      "template": "api.json"
+    }
+  },
+  "d8194424-5587-4e73-9edc-5a8c2bc5a996": {
+    "documents": [
+      {
+        "author": {
+          "external_id": "1699106832537825280",
+          "handle": null,
+          "name": null,
+          "profile_url": null
+        },
+        "content": {
+          "byline": null,
+          "emojis": null,
+          "hashtags": null,
+          "image": null,
+          "links": null,
+          "mentions": null,
+          "opening_text": null,
+          "title": null
+        },
+        "content_type": "repost",
+        "custom": {
+          "hidden": false,
+          "tags": null,
+          "visible": "public"
+        },
+        "enrichments": {
+          "keyphrases": [
+            "networking engineers & technicians"
+          ],
+          "language_code": "en",
+          "sentiment": "neutral"
+        },
+        "external_id": "1813145937197605117",
+        "id": "1721122652000__2i571nUhX6PmQZuXiMm9qMLH7cA",
+        "indexed_date": "2024-07-16T09:37:59.000Z",
+        "location": {
+          "city": null,
+          "country_code": "zz",
+          "geo": null,
+          "region": null,
+          "state": null
+        },
+        "matched": {
+          "hit_sentence": "",
+          "inputs": [
+            {
+              "id": 25231135,
+              "name": "API Session",
+              "type": "search"
+            }
+          ],
+          "keywords": [
+            "Tesla"
+          ]
+        },
+        "metrics": {
+          "editorial_echo": null,
+          "engagement": {
+            "comments": null,
+            "likes": null,
+            "quotes": null,
+            "reactions": null,
+            "replies": null,
+            "reposts": null,
+            "shares": null,
+            "total": null
+          },
+          "estimated_views": null,
+          "social_echo": {
+            "facebook": null,
+            "reddit": null,
+            "total": null,
+            "x": null
+          },
+          "views": null
+        },
+        "parent": {
+          "url": null
+        },
+        "published_date": "2024-07-16T09:37:32.000Z",
+        "source": {
+          "id": "social:twitter",
+          "information_type": "social",
+          "metrics": {
+            "ave": 0.00925,
+            "national_viewership": null,
+            "reach": 1,
+            "reach_desktop": null,
+            "reach_mobile": null
+          },
+          "name": "Twitter",
+          "outlet_types": null,
+          "type": "social network",
+          "url": null
+        },
+        "thread": {
+          "title": null,
+          "url": null
+        },
+        "url": null
+      }
+    ],
+    "request": {
+      "company_id": "586f71c24f2f0b4bcdc47ba1",
+      "hook_id": "eb68ea61a4d9f64142efa7e50b7a54ab3862bb6f",
+      "inputs": [
+        {
+          "id": 25231135,
+          "name": "API Session",
+          "type": "search"
+        }
+      ],
+      "template": "api.json"
+    }
+  },
+  "3095d338-acf7-479b-9c5b-d4e53838c025": {
+    "documents": [
+      {
+        "author": {
+          "external_id": "1212127381520957442",
+          "handle": null,
+          "name": null,
+          "profile_url": null
+        },
+        "content": {
+          "byline": null,
+          "emojis": null,
+          "hashtags": null,
+          "image": null,
+          "links": null,
+          "mentions": null,
+          "opening_text": null,
+          "title": null
+        },
+        "content_type": "repost",
+        "custom": {
+          "hidden": false,
+          "tags": null,
+          "visible": "public"
+        },
+        "enrichments": {
+          "keyphrases": [
+            "networking engineers & technicians"
+          ],
+          "language_code": "en",
+          "sentiment": "neutral"
+        },
+        "external_id": "1813145965961896430",
+        "id": "1721122659000_j47pLL2mWgzN_ooUrIB7QQfEujgA",
+        "indexed_date": "2024-07-16T09:37:58.000Z",
+        "location": {
+          "city": null,
+          "country_code": "zz",
+          "geo": null,
+          "region": null,
+          "state": null
+        },
+        "matched": {
+          "hit_sentence": "",
+          "inputs": [
+            {
+              "id": 25231135,
+              "name": "API Session",
+              "type": "search"
+            }
+          ],
+          "keywords": [
+            "Tesla"
+          ]
+        },
+        "metrics": {
+          "editorial_echo": null,
+          "engagement": {
+            "comments": null,
+            "likes": null,
+            "quotes": null,
+            "reactions": null,
+            "replies": null,
+            "reposts": null,
+            "shares": null,
+            "total": null
+          },
+          "estimated_views": null,
+          "social_echo": {
+            "facebook": null,
+            "reddit": null,
+            "total": null,
+            "x": null
+          },
+          "views": null
+        },
+        "parent": {
+          "url": null
+        },
+        "published_date": "2024-07-16T09:37:39.000Z",
+        "source": {
+          "id": "social:twitter",
+          "information_type": "social",
+          "metrics": {
+            "ave": 1.61875,
+            "national_viewership": null,
+            "reach": 175,
+            "reach_desktop": null,
+            "reach_mobile": null
+          },
+          "name": "Twitter",
+          "outlet_types": null,
+          "type": "social network",
+          "url": null
+        },
+        "thread": {
+          "title": null,
+          "url": null
+        },
+        "url": null
+      }
+    ],
+    "request": {
+      "company_id": "586f71c24f2f0b4bcdc47ba1",
+      "hook_id": "eb68ea61a4d9f64142efa7e50b7a54ab3862bb6f",
+      "inputs": [
+        {
+          "id": 25231135,
+          "name": "API Session",
+          "type": "search"
+        }
+      ],
+      "template": "api.json"
+    }
+  },
+  "7a7a86e2-c0ae-45c4-987d-f5aeedcfac2d": {
+    "documents": [
+      {
+        "author": {
+          "external_id": "1808308686475218944",
+          "handle": null,
+          "name": null,
+          "profile_url": null
+        },
+        "content": {
+          "byline": null,
+          "emojis": null,
+          "hashtags": null,
+          "image": null,
+          "links": null,
+          "mentions": null,
+          "opening_text": null,
+          "title": null
+        },
+        "content_type": "repost",
+        "custom": {
+          "hidden": false,
+          "tags": null,
+          "visible": "public"
+        },
+        "enrichments": {
+          "keyphrases": [
+            "networking engineers & technicians"
+          ],
+          "language_code": "en",
+          "sentiment": "neutral"
+        },
+        "external_id": "1813145987386359844",
+        "id": "1721122664000_edhX1egvMgtOG9Cf0htuFB95FvUA",
+        "indexed_date": "2024-07-16T09:38:08.000Z",
+        "location": {
+          "city": null,
+          "country_code": "zz",
+          "geo": null,
+          "region": null,
+          "state": null
+        },
+        "matched": {
+          "hit_sentence": "",
+          "inputs": [
+            {
+              "id": 25231135,
+              "name": "API Session",
+              "type": "search"
+            }
+          ],
+          "keywords": [
+            "Tesla"
+          ]
+        },
+        "metrics": {
+          "editorial_echo": null,
+          "engagement": {
+            "comments": null,
+            "likes": null,
+            "quotes": null,
+            "reactions": null,
+            "replies": null,
+            "reposts": null,
+            "shares": null,
+            "total": null
+          },
+          "estimated_views": null,
+          "social_echo": {
+            "facebook": null,
+            "reddit": null,
+            "total": null,
+            "x": null
+          },
+          "views": null
+        },
+        "parent": {
+          "url": null
+        },
+        "published_date": "2024-07-16T09:37:44.000Z",
+        "source": {
+          "id": "social:twitter",
+          "information_type": "social",
+          "metrics": {
+            "ave": 0.12025,
+            "national_viewership": null,
+            "reach": 13,
+            "reach_desktop": null,
+            "reach_mobile": null
+          },
+          "name": "Twitter",
+          "outlet_types": null,
+          "type": "social network",
+          "url": null
+        },
+        "thread": {
+          "title": null,
+          "url": null
+        },
+        "url": null
+      }
+    ],
+    "request": {
+      "company_id": "586f71c24f2f0b4bcdc47ba1",
+      "hook_id": "eb68ea61a4d9f64142efa7e50b7a54ab3862bb6f",
+      "inputs": [
+        {
+          "id": 25231135,
+          "name": "API Session",
+          "type": "search"
+        }
+      ],
+      "template": "api.json"
+    }
+  },
+  "374b00a9-b0cb-4fff-962b-e6c75040f80e": {
+    "documents": [
+      {
+        "author": {
+          "external_id": "1038818233254461440",
+          "handle": null,
+          "name": null,
+          "profile_url": null
+        },
+        "content": {
+          "byline": null,
+          "emojis": null,
+          "hashtags": null,
+          "image": null,
+          "links": null,
+          "mentions": null,
+          "opening_text": null,
+          "title": null
+        },
+        "content_type": "quote",
+        "custom": {
+          "hidden": false,
+          "tags": null,
+          "visible": "public"
+        },
+        "enrichments": {
+          "keyphrases": [
+            "account",
+            "american citizen",
+            "complex world",
+            "duty",
+            "everything",
+            "excuse",
+            "freedom",
+            "human civilization",
+            "hungry individuals",
+            "mental help"
+          ],
+          "language_code": "en",
+          "sentiment": "negative"
+        },
+        "external_id": "1813146354757345691",
+        "id": "1721122752000_kDkMeqXWxgYL1kF0MS5S8j-9CakA",
+        "indexed_date": "2024-07-16T09:39:59.000Z",
+        "location": {
+          "city": null,
+          "country_code": "au",
+          "geo": {
+            "latitude": -26.39433,
+            "longitude": 153.0901
+          },
+          "region": null,
+          "state": null
+        },
+        "matched": {
+          "hit_sentence": "",
+          "inputs": [
+            {
+              "id": 25231135,
+              "name": "API Session",
+              "type": "search"
+            }
+          ],
+          "keywords": [
+            "Tesla"
+          ]
+        },
+        "metrics": {
+          "editorial_echo": null,
+          "engagement": {
+            "comments": null,
+            "likes": null,
+            "quotes": null,
+            "reactions": null,
+            "replies": null,
+            "reposts": null,
+            "shares": null,
+            "total": null
+          },
+          "estimated_views": null,
+          "social_echo": {
+            "facebook": null,
+            "reddit": null,
+            "total": null,
+            "x": null
+          },
+          "views": null
+        },
+        "parent": {
+          "url": null
+        },
+        "published_date": "2024-07-16T09:39:12.000Z",
+        "source": {
+          "id": "social:twitter",
+          "information_type": "social",
+          "metrics": {
+            "ave": 190.55,
+            "national_viewership": null,
+            "reach": 20600,
+            "reach_desktop": null,
+            "reach_mobile": null
+          },
+          "name": "Twitter",
+          "outlet_types": null,
+          "type": "social network",
+          "url": null
+        },
+        "thread": {
+          "title": null,
+          "url": null
+        },
+        "url": null
+      }
+    ],
+    "request": {
+      "company_id": "586f71c24f2f0b4bcdc47ba1",
+      "hook_id": "eb68ea61a4d9f64142efa7e50b7a54ab3862bb6f",
+      "inputs": [
+        {
+          "id": 25231135,
+          "name": "API Session",
+          "type": "search"
+        }
+      ],
+      "template": "api.json"
+    }
+  },
+  "e822b1de-8af8-456a-ba50-24c05d0fab66": {
+    "documents": [
+      {
+        "author": {
+          "external_id": "1711290377276121088",
+          "handle": null,
+          "name": null,
+          "profile_url": null
+        },
+        "content": {
+          "byline": null,
+          "emojis": null,
+          "hashtags": null,
+          "image": null,
+          "links": null,
+          "mentions": null,
+          "opening_text": null,
+          "title": null
+        },
+        "content_type": "reply",
+        "custom": {
+          "hidden": false,
+          "tags": null,
+          "visible": "public"
+        },
+        "enrichments": {
+          "keyphrases": null,
+          "language_code": "cs",
+          "sentiment": "positive"
+        },
+        "external_id": "1813146569199284364",
+        "id": "1721122803000_om6Xe9sDSjOmxONPtBLsTYT4NtcA",
+        "indexed_date": "2024-07-16T09:40:26.000Z",
+        "location": {
+          "city": null,
+          "country_code": "tz",
+          "geo": {
+            "latitude": -6.17221,
+            "longitude": 35.73947
+          },
+          "region": null,
+          "state": null
+        },
+        "matched": {
+          "hit_sentence": "",
+          "inputs": [
+            {
+              "id": 25231135,
+              "name": "API Session",
+              "type": "search"
+            }
+          ],
+          "keywords": [
+            "tesla"
+          ]
+        },
+        "metrics": {
+          "editorial_echo": null,
+          "engagement": {
+            "comments": null,
+            "likes": null,
+            "quotes": null,
+            "reactions": null,
+            "replies": null,
+            "reposts": null,
+            "shares": null,
+            "total": null
+          },
+          "estimated_views": null,
+          "social_echo": {
+            "facebook": null,
+            "reddit": null,
+            "total": null,
+            "x": null
+          },
+          "views": null
+        },
+        "parent": {
+          "url": null
+        },
+        "published_date": "2024-07-16T09:40:03.000Z",
+        "source": {
+          "id": "social:twitter",
+          "information_type": "social",
+          "metrics": {
+            "ave": 0.36075,
+            "national_viewership": null,
+            "reach": 39,
+            "reach_desktop": null,
+            "reach_mobile": null
+          },
+          "name": "Twitter",
+          "outlet_types": null,
+          "type": "social network",
+          "url": null
+        },
+        "thread": {
+          "title": null,
+          "url": null
+        },
+        "url": null
+      }
+    ],
+    "request": {
+      "company_id": "586f71c24f2f0b4bcdc47ba1",
+      "hook_id": "eb68ea61a4d9f64142efa7e50b7a54ab3862bb6f",
+      "inputs": [
+        {
+          "id": 25231135,
+          "name": "API Session",
+          "type": "search"
+        }
+      ],
+      "template": "api.json"
+    }
+  },
+  "baf3d09e-080a-4296-ac78-104deb267ab3": {
+    "documents": [
+      {
+        "author": {
+          "external_id": "905714084011802624",
+          "handle": null,
+          "name": null,
+          "profile_url": null
+        },
+        "content": {
+          "byline": null,
+          "emojis": null,
+          "hashtags": null,
+          "image": null,
+          "links": null,
+          "mentions": null,
+          "opening_text": null,
+          "title": null
+        },
+        "content_type": "repost",
+        "custom": {
+          "hidden": false,
+          "tags": null,
+          "visible": "public"
+        },
+        "enrichments": {
+          "keyphrases": [
+            "life",
+            "maintenance",
+            "plug replacements or transmission flushes",
+            "tesla vehicles"
+          ],
+          "language_code": "en",
+          "sentiment": "positive"
+        },
+        "external_id": "1813146977690935322",
+        "id": "1721122900000_O6_qIJjp8khbkELJrQfxI4kBakYA",
+        "indexed_date": "2024-07-16T09:41:59.000Z",
+        "location": {
+          "city": null,
+          "country_code": "fr",
+          "geo": {
+            "latitude": 46,
+            "longitude": 2
+          },
+          "region": null,
+          "state": null
+        },
+        "matched": {
+          "hit_sentence": "",
+          "inputs": [
+            {
+              "id": 25231135,
+              "name": "API Session",
+              "type": "search"
+            }
+          ],
+          "keywords": [
+            "Tesla"
+          ]
+        },
+        "metrics": {
+          "editorial_echo": null,
+          "engagement": {
+            "comments": null,
+            "likes": null,
+            "quotes": null,
+            "reactions": null,
+            "replies": null,
+            "reposts": null,
+            "shares": null,
+            "total": null
+          },
+          "estimated_views": null,
+          "social_echo": {
+            "facebook": null,
+            "reddit": null,
+            "total": null,
+            "x": null
+          },
+          "views": null
+        },
+        "parent": {
+          "url": null
+        },
+        "published_date": "2024-07-16T09:41:40.000Z",
+        "source": {
+          "id": "social:twitter",
+          "information_type": "social",
+          "metrics": {
+            "ave": 0.69375,
+            "national_viewership": null,
+            "reach": 75,
+            "reach_desktop": null,
+            "reach_mobile": null
+          },
+          "name": "Twitter",
+          "outlet_types": null,
+          "type": "social network",
+          "url": null
+        },
+        "thread": {
+          "title": null,
+          "url": null
+        },
+        "url": null
+      }
+    ],
+    "request": {
+      "company_id": "586f71c24f2f0b4bcdc47ba1",
+      "hook_id": "eb68ea61a4d9f64142efa7e50b7a54ab3862bb6f",
+      "inputs": [
+        {
+          "id": 25231135,
+          "name": "API Session",
+          "type": "search"
+        }
+      ],
+      "template": "api.json"
+    }
+  },
+  "c86103b6-d5ca-498e-a87c-dbed99f87883": {
+    "documents": [
+      {
+        "author": {
+          "external_id": "36327407",
+          "handle": null,
+          "name": null,
+          "profile_url": null
+        },
+        "content": {
+          "byline": null,
+          "emojis": null,
+          "hashtags": null,
+          "image": null,
+          "links": null,
+          "mentions": null,
+          "opening_text": null,
+          "title": null
+        },
+        "content_type": "social post",
+        "custom": {
+          "hidden": false,
+          "tags": null,
+          "visible": "public"
+        },
+        "enrichments": {
+          "keyphrases": [
+            "ai startup",
+            "network engineers & technicians"
+          ],
+          "language_code": "en",
+          "sentiment": "positive"
+        },
+        "external_id": "1813147410409136459",
+        "id": "1721123003000_iWDhNZzxSXSijvFi6IqkRTvq95IA",
+        "indexed_date": "2024-07-16T09:43:47.000Z",
+        "location": {
+          "city": null,
+          "country_code": "in",
+          "geo": {
+            "latitude": 22,
+            "longitude": 79
+          },
+          "region": null,
+          "state": null
+        },
+        "matched": {
+          "hit_sentence": "",
+          "inputs": [
+            {
+              "id": 25231135,
+              "name": "API Session",
+              "type": "search"
+            }
+          ],
+          "keywords": [
+            "tesla",
+            "Tesla"
+          ]
+        },
+        "metrics": {
+          "editorial_echo": null,
+          "engagement": {
+            "comments": null,
+            "likes": null,
+            "quotes": null,
+            "reactions": null,
+            "replies": null,
+            "reposts": null,
+            "shares": null,
+            "total": null
+          },
+          "estimated_views": null,
+          "social_echo": {
+            "facebook": null,
+            "reddit": null,
+            "total": null,
+            "x": null
+          },
+          "views": null
+        },
+        "parent": {
+          "url": null
+        },
+        "published_date": "2024-07-16T09:43:23.000Z",
+        "source": {
+          "id": "social:twitter",
+          "information_type": "social",
+          "metrics": {
+            "ave": 80186.94575,
+            "national_viewership": null,
+            "reach": 8668859,
+            "reach_desktop": null,
+            "reach_mobile": null
+          },
+          "name": "Twitter",
+          "outlet_types": null,
+          "type": "social network",
+          "url": null
+        },
+        "thread": {
+          "title": null,
+          "url": null
+        },
+        "url": null
+      }
+    ],
+    "request": {
+      "company_id": "586f71c24f2f0b4bcdc47ba1",
+      "hook_id": "eb68ea61a4d9f64142efa7e50b7a54ab3862bb6f",
+      "inputs": [
+        {
+          "id": 25231135,
+          "name": "API Session",
+          "type": "search"
+        }
+      ],
+      "template": "api.json"
+    }
+  },
+  "d961e63f-d3e8-42e9-b935-ca7b83bcdc92": {
+    "documents": [
+      {
+        "author": {
+          "external_id": "2422555874",
+          "handle": null,
+          "name": null,
+          "profile_url": null
+        },
+        "content": {
+          "byline": null,
+          "emojis": null,
+          "hashtags": null,
+          "image": null,
+          "links": null,
+          "mentions": null,
+          "opening_text": null,
+          "title": null
+        },
+        "content_type": "repost",
+        "custom": {
+          "hidden": false,
+          "tags": null,
+          "visible": "public"
+        },
+        "enrichments": {
+          "keyphrases": [
+            "ebm papst gruppe",
+            "heubacher gruppe"
+          ],
+          "language_code": "de",
+          "sentiment": "negative"
+        },
+        "external_id": "1813146223672545649",
+        "id": "1721122721000_wOwNmQQvtBW9WWBX50lvKJKjwuoA",
+        "indexed_date": "2024-07-16T09:39:08.000Z",
+        "location": {
+          "city": null,
+          "country_code": "de",
+          "geo": {
+            "latitude": 51.5,
+            "longitude": 10.5
+          },
+          "region": null,
+          "state": null
+        },
+        "matched": {
+          "hit_sentence": "",
+          "inputs": [
+            {
+              "id": 25231135,
+              "name": "API Session",
+              "type": "search"
+            }
+          ],
+          "keywords": [
+            "Tesla"
+          ]
+        },
+        "metrics": {
+          "editorial_echo": null,
+          "engagement": {
+            "comments": null,
+            "likes": null,
+            "quotes": null,
+            "reactions": null,
+            "replies": null,
+            "reposts": null,
+            "shares": null,
+            "total": null
+          },
+          "estimated_views": null,
+          "social_echo": {
+            "facebook": null,
+            "reddit": null,
+            "total": null,
+            "x": null
+          },
+          "views": null
+        },
+        "parent": {
+          "url": null
+        },
+        "published_date": "2024-07-16T09:38:41.000Z",
+        "source": {
+          "id": "social:twitter",
+          "information_type": "social",
+          "metrics": {
+            "ave": 15.558500000000002,
+            "national_viewership": null,
+            "reach": 1682,
+            "reach_desktop": null,
+            "reach_mobile": null
+          },
+          "name": "Twitter",
+          "outlet_types": null,
+          "type": "social network",
+          "url": null
+        },
+        "thread": {
+          "title": null,
+          "url": null
+        },
+        "url": null
+      }
+    ],
+    "request": {
+      "company_id": "586f71c24f2f0b4bcdc47ba1",
+      "hook_id": "eb68ea61a4d9f64142efa7e50b7a54ab3862bb6f",
+      "inputs": [
+        {
+          "id": 25231135,
+          "name": "API Session",
+          "type": "search"
+        }
+      ],
+      "template": "api.json"
+    }
+  },
+  "474658f9-3bb7-49a8-84c3-5a4187d2e3a6": {
+    "documents": [
+      {
+        "author": {
+          "external_id": "1802873407643537408",
+          "handle": null,
+          "name": null,
+          "profile_url": null
+        },
+        "content": {
+          "byline": null,
+          "emojis": null,
+          "hashtags": null,
+          "image": null,
+          "links": null,
+          "mentions": null,
+          "opening_text": null,
+          "title": null
+        },
+        "content_type": "repost",
+        "custom": {
+          "hidden": false,
+          "tags": null,
+          "visible": "public"
+        },
+        "enrichments": {
+          "keyphrases": [
+            "autonomous features",
+            "cars",
+            "gps b",
+            "satellite"
+          ],
+          "language_code": "en",
+          "sentiment": "neutral"
+        },
+        "external_id": "1813146763315888605",
+        "id": "1721122849000_47tVqz8HGdbId_byOKaDG3pk_QIA",
+        "indexed_date": "2024-07-16T09:41:13.000Z",
+        "location": {
+          "city": null,
+          "country_code": "zz",
+          "geo": null,
+          "region": null,
+          "state": null
+        },
+        "matched": {
+          "hit_sentence": "",
+          "inputs": [
+            {
+              "id": 25231135,
+              "name": "API Session",
+              "type": "search"
+            }
+          ],
+          "keywords": [
+            "Tesla"
+          ]
+        },
+        "metrics": {
+          "editorial_echo": null,
+          "engagement": {
+            "comments": null,
+            "likes": null,
+            "quotes": null,
+            "reactions": null,
+            "replies": null,
+            "reposts": null,
+            "shares": null,
+            "total": null
+          },
+          "estimated_views": null,
+          "social_echo": {
+            "facebook": null,
+            "reddit": null,
+            "total": null,
+            "x": null
+          },
+          "views": null
+        },
+        "parent": {
+          "url": null
+        },
+        "published_date": "2024-07-16T09:40:49.000Z",
+        "source": {
+          "id": "social:twitter",
+          "information_type": "social",
+          "metrics": {
+            "ave": 2.1275,
+            "national_viewership": null,
+            "reach": 230,
+            "reach_desktop": null,
+            "reach_mobile": null
+          },
+          "name": "Twitter",
+          "outlet_types": null,
+          "type": "social network",
+          "url": null
+        },
+        "thread": {
+          "title": null,
+          "url": null
+        },
+        "url": null
+      }
+    ],
+    "request": {
+      "company_id": "586f71c24f2f0b4bcdc47ba1",
+      "hook_id": "eb68ea61a4d9f64142efa7e50b7a54ab3862bb6f",
+      "inputs": [
+        {
+          "id": 25231135,
+          "name": "API Session",
+          "type": "search"
+        }
+      ],
+      "template": "api.json"
+    }
+  },
+  "77c1872b-7fb4-4226-9005-3ccfdf9afb2f": {
+    "documents": [
+      {
+        "author": {
+          "external_id": "1512109588660862982",
+          "handle": null,
+          "name": null,
+          "profile_url": null
+        },
+        "content": {
+          "byline": null,
+          "emojis": null,
+          "hashtags": null,
+          "image": null,
+          "links": null,
+          "mentions": null,
+          "opening_text": null,
+          "title": null
+        },
+        "content_type": "repost",
+        "custom": {
+          "hidden": false,
+          "tags": null,
+          "visible": "public"
+        },
+        "enrichments": {
+          "keyphrases": [
+            "networking engineers & technicians"
+          ],
+          "language_code": "en",
+          "sentiment": "neutral"
+        },
+        "external_id": "1813147583927189675",
+        "id": "1721123045000_zWfFTpR4B6pr5Dz6GYrK8FIS330A",
+        "indexed_date": "2024-07-16T09:44:27.000Z",
+        "location": {
+          "city": null,
+          "country_code": "de",
+          "geo": {
+            "latitude": 49.00937,
+            "longitude": 8.40444
+          },
+          "region": null,
+          "state": null
+        },
+        "matched": {
+          "hit_sentence": "",
+          "inputs": [
+            {
+              "id": 25231135,
+              "name": "API Session",
+              "type": "search"
+            }
+          ],
+          "keywords": [
+            "Tesla"
+          ]
+        },
+        "metrics": {
+          "editorial_echo": null,
+          "engagement": {
+            "comments": null,
+            "likes": null,
+            "quotes": null,
+            "reactions": null,
+            "replies": null,
+            "reposts": null,
+            "shares": null,
+            "total": null
+          },
+          "estimated_views": null,
+          "social_echo": {
+            "facebook": null,
+            "reddit": null,
+            "total": null,
+            "x": null
+          },
+          "views": null
+        },
+        "parent": {
+          "url": null
+        },
+        "published_date": "2024-07-16T09:44:05.000Z",
+        "source": {
+          "id": "social:twitter",
+          "information_type": "social",
+          "metrics": {
+            "ave": 3.2282499999999996,
+            "national_viewership": null,
+            "reach": 349,
+            "reach_desktop": null,
+            "reach_mobile": null
+          },
+          "name": "Twitter",
+          "outlet_types": null,
+          "type": "social network",
+          "url": null
+        },
+        "thread": {
+          "title": null,
+          "url": null
+        },
+        "url": null
+      }
+    ],
+    "request": {
+      "company_id": "586f71c24f2f0b4bcdc47ba1",
+      "hook_id": "eb68ea61a4d9f64142efa7e50b7a54ab3862bb6f",
+      "inputs": [
+        {
+          "id": 25231135,
+          "name": "API Session",
+          "type": "search"
+        }
+      ],
+      "template": "api.json"
+    }
+  },
+  "7545e0ee-883a-4a93-b36b-47b6f1e86e66": {
+    "documents": [
+      {
+        "author": {
+          "external_id": "1530854316386525184",
+          "handle": null,
+          "name": null,
+          "profile_url": null
+        },
+        "content": {
+          "byline": null,
+          "emojis": null,
+          "hashtags": null,
+          "image": "https://pbs.twimg.com/media/GSmYjLPXoAAcGql.jpg",
+          "links": null,
+          "mentions": null,
+          "opening_text": null,
+          "title": null
+        },
+        "content_type": "quote",
+        "custom": {
+          "hidden": false,
+          "tags": null,
+          "visible": "public"
+        },
+        "enrichments": {
+          "keyphrases": [
+            "ebm papst gruppe",
+            "heubacher gruppe"
+          ],
+          "language_code": "de",
+          "sentiment": "neutral"
+        },
+        "external_id": "1813148061775831332",
+        "id": "1721123159000_1lgIURZw9oCXodfTbXFRpDYmhnwA",
+        "indexed_date": "2024-07-16T09:46:22.000Z",
+        "location": {
+          "city": null,
+          "country_code": "zz",
+          "geo": null,
+          "region": null,
+          "state": null
+        },
+        "matched": {
+          "hit_sentence": "",
+          "inputs": [
+            {
+              "id": 25231135,
+              "name": "API Session",
+              "type": "search"
+            }
+          ],
+          "keywords": [
+            "Tesla"
+          ]
+        },
+        "metrics": {
+          "editorial_echo": null,
+          "engagement": {
+            "comments": null,
+            "likes": null,
+            "quotes": null,
+            "reactions": null,
+            "replies": null,
+            "reposts": null,
+            "shares": null,
+            "total": null
+          },
+          "estimated_views": null,
+          "social_echo": {
+            "facebook": null,
+            "reddit": null,
+            "total": null,
+            "x": null
+          },
+          "views": null
+        },
+        "parent": {
+          "url": null
+        },
+        "published_date": "2024-07-16T09:45:59.000Z",
+        "source": {
+          "id": "social:twitter",
+          "information_type": "social",
+          "metrics": {
+            "ave": 34.8725,
+            "national_viewership": null,
+            "reach": 3770,
+            "reach_desktop": null,
+            "reach_mobile": null
+          },
+          "name": "Twitter",
+          "outlet_types": null,
+          "type": "social network",
+          "url": null
+        },
+        "thread": {
+          "title": null,
+          "url": null
+        },
+        "url": null
+      }
+    ],
+    "request": {
+      "company_id": "586f71c24f2f0b4bcdc47ba1",
+      "hook_id": "eb68ea61a4d9f64142efa7e50b7a54ab3862bb6f",
+      "inputs": [
+        {
+          "id": 25231135,
+          "name": "API Session",
+          "type": "search"
+        }
+      ],
+      "template": "api.json"
+    }
+  },
+  "c06aa03a-c2ad-4753-a87c-b414a9adeb35": {
+    "documents": [
+      {
+        "author": {
+          "external_id": "1592132251248168961",
+          "handle": null,
+          "name": null,
+          "profile_url": null
+        },
+        "content": {
+          "byline": null,
+          "emojis": null,
+          "hashtags": null,
+          "image": null,
+          "links": null,
+          "mentions": null,
+          "opening_text": null,
+          "title": null
+        },
+        "content_type": "repost",
+        "custom": {
+          "hidden": false,
+          "tags": null,
+          "visible": "public"
+        },
+        "enrichments": {
+          "keyphrases": [
+            "analyst",
+            "consumer interest",
+            "decision",
+            "electric vehicle manufacturer",
+            "firm",
+            "overall vehicle price",
+            "price target",
+            "same amount",
+            "stock",
+            "vehicle demand"
+          ],
+          "language_code": "en",
+          "sentiment": "neutral"
+        },
+        "external_id": "1813148185574920487",
+        "id": "1721123188000_FOK09nh46tK078l74-cfinPAuEkA",
+        "indexed_date": "2024-07-16T09:46:56.000Z",
+        "location": {
+          "city": null,
+          "country_code": "zz",
+          "geo": null,
+          "region": null,
+          "state": null
+        },
+        "matched": {
+          "hit_sentence": "",
+          "inputs": [
+            {
+              "id": 25231135,
+              "name": "API Session",
+              "type": "search"
+            }
+          ],
+          "keywords": [
+            "Tesla"
+          ]
+        },
+        "metrics": {
+          "editorial_echo": null,
+          "engagement": {
+            "comments": null,
+            "likes": null,
+            "quotes": null,
+            "reactions": null,
+            "replies": null,
+            "reposts": null,
+            "shares": null,
+            "total": null
+          },
+          "estimated_views": null,
+          "social_echo": {
+            "facebook": null,
+            "reddit": null,
+            "total": null,
+            "x": null
+          },
+          "views": null
+        },
+        "parent": {
+          "url": null
+        },
+        "published_date": "2024-07-16T09:46:28.000Z",
+        "source": {
+          "id": "social:twitter",
+          "information_type": "social",
+          "metrics": {
+            "ave": 1.9055000000000002,
+            "national_viewership": null,
+            "reach": 206,
+            "reach_desktop": null,
+            "reach_mobile": null
+          },
+          "name": "Twitter",
+          "outlet_types": null,
+          "type": "social network",
+          "url": null
+        },
+        "thread": {
+          "title": null,
+          "url": null
+        },
+        "url": null
+      }
+    ],
+    "request": {
+      "company_id": "586f71c24f2f0b4bcdc47ba1",
+      "hook_id": "eb68ea61a4d9f64142efa7e50b7a54ab3862bb6f",
+      "inputs": [
+        {
+          "id": 25231135,
+          "name": "API Session",
+          "type": "search"
+        }
+      ],
+      "template": "api.json"
+    }
+  },
+  "c34930dc-e875-4ef6-a41a-ff2ff3e09a8d": {
+    "documents": [
+      {
+        "author": {
+          "external_id": "363578340",
+          "handle": null,
+          "name": null,
+          "profile_url": null
+        },
+        "content": {
+          "byline": null,
+          "emojis": null,
+          "hashtags": null,
+          "image": null,
+          "links": null,
+          "mentions": null,
+          "opening_text": null,
+          "title": null
+        },
+        "content_type": "reply",
+        "custom": {
+          "hidden": false,
+          "tags": null,
+          "visible": "public"
+        },
+        "enrichments": {
+          "keyphrases": null,
+          "language_code": "en",
+          "sentiment": "neutral"
+        },
+        "external_id": "1813148219578167494",
+        "id": "1721123196000_LX7UTPzP02e3rgnYZiOkV9LEx-MA",
+        "indexed_date": "2024-07-16T09:47:00.000Z",
+        "location": {
+          "city": null,
+          "country_code": "de",
+          "geo": {
+            "latitude": 51.5,
+            "longitude": 10.5
+          },
+          "region": null,
+          "state": null
+        },
+        "matched": {
+          "hit_sentence": "",
+          "inputs": [
+            {
+              "id": 25231135,
+              "name": "API Session",
+              "type": "search"
+            }
+          ],
+          "keywords": [
+            "Tesla"
+          ]
+        },
+        "metrics": {
+          "editorial_echo": null,
+          "engagement": {
+            "comments": null,
+            "likes": null,
+            "quotes": null,
+            "reactions": null,
+            "replies": null,
+            "reposts": null,
+            "shares": null,
+            "total": null
+          },
+          "estimated_views": null,
+          "social_echo": {
+            "facebook": null,
+            "reddit": null,
+            "total": null,
+            "x": null
+          },
+          "views": null
+        },
+        "parent": {
+          "url": null
+        },
+        "published_date": "2024-07-16T09:46:36.000Z",
+        "source": {
+          "id": "social:twitter",
+          "information_type": "social",
+          "metrics": {
+            "ave": 3.848,
+            "national_viewership": null,
+            "reach": 416,
+            "reach_desktop": null,
+            "reach_mobile": null
+          },
+          "name": "Twitter",
+          "outlet_types": null,
+          "type": "social network",
+          "url": null
+        },
+        "thread": {
+          "title": null,
+          "url": null
+        },
+        "url": null
+      }
+    ],
+    "request": {
+      "company_id": "586f71c24f2f0b4bcdc47ba1",
+      "hook_id": "eb68ea61a4d9f64142efa7e50b7a54ab3862bb6f",
+      "inputs": [
+        {
+          "id": 25231135,
+          "name": "API Session",
+          "type": "search"
+        }
+      ],
+      "template": "api.json"
+    }
+  },
+  "2cfccb84-ac42-4d5d-ac0b-0981d83f3254": {
+    "documents": [
+      {
+        "author": {
+          "external_id": "93891437",
+          "handle": null,
+          "name": null,
+          "profile_url": null
+        },
+        "content": {
+          "byline": null,
+          "emojis": null,
+          "hashtags": null,
+          "image": null,
+          "links": null,
+          "mentions": null,
+          "opening_text": null,
+          "title": null
+        },
+        "content_type": "reply",
+        "custom": {
+          "hidden": false,
+          "tags": null,
+          "visible": "public"
+        },
+        "enrichments": {
+          "keyphrases": [
+            "finger",
+            "hard cash",
+            "interest",
+            "powerful unions",
+            "progress",
+            "rational politicians",
+            "tesla owner",
+            "ve car maker"
+          ],
+          "language_code": "en",
+          "sentiment": "negative"
+        },
+        "external_id": "1813148559069307017",
+        "id": "1721123277000_2cHm0q5eoBt4W6QyY9A9uXMV1BUA",
+        "indexed_date": "2024-07-16T09:48:19.000Z",
+        "location": {
+          "city": null,
+          "country_code": "gb",
+          "geo": {
+            "latitude": 51.50853,
+            "longitude": -0.12574
+          },
+          "region": null,
+          "state": null
+        },
+        "matched": {
+          "hit_sentence": "",
+          "inputs": [
+            {
+              "id": 25231135,
+              "name": "API Session",
+              "type": "search"
+            }
+          ],
+          "keywords": [
+            "Tesla"
+          ]
+        },
+        "metrics": {
+          "editorial_echo": null,
+          "engagement": {
+            "comments": null,
+            "likes": null,
+            "quotes": null,
+            "reactions": null,
+            "replies": null,
+            "reposts": null,
+            "shares": null,
+            "total": null
+          },
+          "estimated_views": null,
+          "social_echo": {
+            "facebook": null,
+            "reddit": null,
+            "total": null,
+            "x": null
+          },
+          "views": null
+        },
+        "parent": {
+          "url": null
+        },
+        "published_date": "2024-07-16T09:47:57.000Z",
+        "source": {
+          "id": "social:twitter",
+          "information_type": "social",
+          "metrics": {
+            "ave": 5.291,
+            "national_viewership": null,
+            "reach": 572,
+            "reach_desktop": null,
+            "reach_mobile": null
+          },
+          "name": "Twitter",
+          "outlet_types": null,
+          "type": "social network",
+          "url": null
+        },
+        "thread": {
+          "title": null,
+          "url": null
+        },
+        "url": null
+      }
+    ],
+    "request": {
+      "company_id": "586f71c24f2f0b4bcdc47ba1",
+      "hook_id": "eb68ea61a4d9f64142efa7e50b7a54ab3862bb6f",
+      "inputs": [
+        {
+          "id": 25231135,
+          "name": "API Session",
+          "type": "search"
+        }
+      ],
+      "template": "api.json"
+    }
+  }
 }
