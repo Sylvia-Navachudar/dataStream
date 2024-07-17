@@ -1,0 +1,1288 @@
+{
+    "responseMeta": {
+        "status": 200,
+        "success": true
+    },
+    "data": {
+        "statusCode": "200 OK",
+        "headers": {
+            "Server": [
+                "Server"
+            ],
+            "Date": [
+                "Wed, 17 Jul 2024 07:31:57 GMT"
+            ],
+            "Content-Type": [
+                "application/json"
+            ],
+            "Content-Length": [
+                "25477"
+            ],
+            "Connection": [
+                "keep-alive"
+            ],
+            "x-amzn-RequestId": [
+                "ecae3809-f4e2-43e9-9d22-c9ffce1fbaff"
+            ],
+            "x-amz-apigw-id": [
+                "bC75FFdHDoEFq1A="
+            ],
+            "X-Amzn-Trace-Id": [
+                "Root=1-6697736d-4a0f3b31de3255af9316635a;Parent=5e5158b974aee2db;Sampled=0;lineage=ae982cf2:0"
+            ],
+            "X-APPSMITH-DATATYPE": [
+                "JSON"
+            ]
+        },
+        "body": {
+            "data": [
+                {
+                    "id": "076309eb73c40c0bde99d541e0d7280a2d1bb25e",
+                    "company": "5cc26b1145d60fc8167e4c75",
+                    "user": "65ee7428d685bd0008f6bcb5",
+                    "state": "RUNNING",
+                    "stateMessage": "",
+                    "config": {
+                        "destination": {
+                            "type": "HTTP",
+                            "endpoint": "https://socpltmng.alipay.com/meltwater/stream.json"
+                        },
+                        "search": {
+                            "id": 24671546,
+                            "name": "风洞_twitter境外重点账户内容安全",
+                            "type": "social"
+                        },
+                        "template": {
+                            "name": "legacy"
+                        }
+                    },
+                    "created_at": "2024-04-10T07:50:06Z",
+                    "updated_at": "2024-05-27T04:57:58Z"
+                },
+                {
+                    "id": "0bdc36b36bd36afcd22574a48ec2b68bfa6dcbbe",
+                    "company": "5cc26b1145d60fc8167e4c75",
+                    "user": "65ee7428d685bd0008f6bcb5",
+                    "state": "RUNNING",
+                    "stateMessage": "",
+                    "config": {
+                        "destination": {
+                            "type": "HTTP",
+                            "endpoint": "https://socpltmng.alipay.com/meltwater/stream.json"
+                        },
+                        "search": {
+                            "id": 13591459,
+                            "name": "风洞预警-电商域全品牌词-欺诈风险",
+                            "type": "social"
+                        }
+                    },
+                    "created_at": "2023-07-27T09:59:11Z",
+                    "updated_at": "2024-05-27T04:58:01Z"
+                },
+                {
+                    "id": "0e18bb2e774fcd49c9ccbbf4cb66209096850d47",
+                    "company": "5cc26b1145d60fc8167e4c75",
+                    "user": "65ee7428d685bd0008f6bcb5",
+                    "state": "RUNNING",
+                    "stateMessage": "",
+                    "config": {
+                        "destination": {
+                            "type": "HTTP",
+                            "endpoint": "https://socpltmng.alipay.com/meltwater/stream.json"
+                        },
+                        "search": {
+                            "id": 23004746,
+                            "name": "风洞-境外账户注册风险",
+                            "type": "social"
+                        }
+                    },
+                    "created_at": "2023-10-18T02:10:09Z",
+                    "updated_at": "2024-05-27T04:58:01Z"
+                },
+                {
+                    "id": "12d63cd0a3e499207cb1e52a4b49d4fd1e0c43d5",
+                    "company": "5cc26b1145d60fc8167e4c75",
+                    "user": "65ee7428d685bd0008f6bcb5",
+                    "state": "RUNNING",
+                    "stateMessage": "",
+                    "config": {
+                        "destination": {
+                            "type": "HTTP",
+                            "endpoint": "https://socpltmng.alipay.com/meltwater/stream.json"
+                        },
+                        "search": {
+                            "id": 22821882,
+                            "name": "流入风洞-涉政大词类3",
+                            "type": "social"
+                        }
+                    },
+                    "created_at": "2023-07-27T09:59:00Z",
+                    "updated_at": "2024-05-27T04:58:03Z"
+                },
+                {
+                    "id": "1576b5401e95454cbe6a77b3aab11211c33b9685",
+                    "company": "5cc26b1145d60fc8167e4c75",
+                    "user": "65ee7428d685bd0008f6bcb5",
+                    "state": "RUNNING",
+                    "stateMessage": "",
+                    "config": {
+                        "destination": {
+                            "type": "HTTP",
+                            "endpoint": "https://socpltmng.alipay.com/meltwater/stream.json"
+                        },
+                        "search": {
+                            "id": 25078701,
+                            "name": "流入风洞-德国联邦&北莱茵内政部长",
+                            "type": "social"
+                        },
+                        "template": {
+                            "name": "legacy.streaming"
+                        }
+                    },
+                    "created_at": "2024-06-13T03:40:04Z",
+                    "updated_at": "2024-06-13T03:40:08Z"
+                },
+                {
+                    "id": "1d7bf83bd658903e29f7f99562371da645f69483",
+                    "company": "5cc26b1145d60fc8167e4c75",
+                    "user": "65ee7428d685bd0008f6bcb5",
+                    "state": "RUNNING",
+                    "stateMessage": "",
+                    "config": {
+                        "destination": {
+                            "type": "HTTP",
+                            "endpoint": "https://socpltmng.alipay.com/meltwater/stream.json"
+                        },
+                        "search": {
+                            "id": 25078745,
+                            "name": "流入风洞-德国景点交通管制",
+                            "type": "social"
+                        },
+                        "template": {
+                            "name": "legacy.streaming"
+                        }
+                    },
+                    "created_at": "2024-06-12T10:40:08Z",
+                    "updated_at": "2024-06-12T10:40:11Z"
+                },
+                {
+                    "id": "1e6cccae7cc362654d2af8adf8d0a30912bbd322",
+                    "company": "5cc26b1145d60fc8167e4c75",
+                    "user": "65ee7428d685bd0008f6bcb5",
+                    "state": "RUNNING",
+                    "stateMessage": "",
+                    "config": {
+                        "destination": {
+                            "type": "HTTP",
+                            "endpoint": "https://socpltmng.alipay.com/meltwater/stream.json"
+                        },
+                        "search": {
+                            "id": 23013867,
+                            "name": "[风洞]反洗钱—制裁",
+                            "type": "news"
+                        }
+                    },
+                    "created_at": "2023-10-18T02:10:14Z",
+                    "updated_at": "2024-05-27T04:58:10Z"
+                },
+                {
+                    "id": "26fd19d40c79096679781b5a4f272f7e7b5e4229",
+                    "company": "5cc26b1145d60fc8167e4c75",
+                    "user": "65ee7428d685bd0008f6bcb5",
+                    "state": "RUNNING",
+                    "stateMessage": "",
+                    "config": {
+                        "destination": {
+                            "type": "HTTP",
+                            "endpoint": "https://socpltmng.alipay.com/meltwater/stream.json"
+                        },
+                        "search": {
+                            "id": 24971696,
+                            "name": "流入风洞-蚂蚁被美国制裁",
+                            "type": "news"
+                        },
+                        "template": {
+                            "name": "legacy.streaming"
+                        }
+                    },
+                    "created_at": "2024-06-13T03:30:05Z",
+                    "updated_at": "2024-06-13T03:30:07Z"
+                },
+                {
+                    "id": "3c7100c275e3949b4293ee11930338344ab889b1",
+                    "company": "5cc26b1145d60fc8167e4c75",
+                    "user": "65ee7428d685bd0008f6bcb5",
+                    "state": "RUNNING",
+                    "stateMessage": "",
+                    "config": {
+                        "destination": {
+                            "type": "HTTP",
+                            "endpoint": "https://socpltmng.alipay.com/meltwater/stream.json"
+                        },
+                        "search": {
+                            "id": 13591077,
+                            "name": "风洞预警-应急策略兜底-全品牌词-全球知名媒体覆盖",
+                            "type": "social"
+                        }
+                    },
+                    "created_at": "2023-07-27T09:56:11Z",
+                    "updated_at": "2024-05-27T04:58:30Z"
+                },
+                {
+                    "id": "3f94d01e54bd91ba2c3b8d7797e1fbd0298de637",
+                    "company": "5cc26b1145d60fc8167e4c75",
+                    "user": "65ee7428d685bd0008f6bcb5",
+                    "state": "RUNNING",
+                    "stateMessage": "",
+                    "config": {
+                        "destination": {
+                            "type": "HTTP",
+                            "endpoint": "https://socpltmng.alipay.com/meltwater/stream.json"
+                        },
+                        "search": {
+                            "id": 22814745,
+                            "name": "流入风洞-敏感作者名单",
+                            "type": "social"
+                        }
+                    },
+                    "created_at": "2023-07-27T09:58:39Z",
+                    "updated_at": "2024-05-27T04:58:30Z"
+                },
+                {
+                    "id": "4a96c741b47e9eaa7007a22263c96b01c0f37ce4",
+                    "company": "5cc26b1145d60fc8167e4c75",
+                    "user": "65ee7428d685bd0008f6bcb5",
+                    "state": "RUNNING",
+                    "stateMessage": "",
+                    "config": {
+                        "destination": {
+                            "type": "HTTP",
+                            "endpoint": "https://socpltmng.alipay.com/meltwater/stream.json"
+                        },
+                        "search": {
+                            "id": 22906993,
+                            "name": "流入风洞-twitter高点评赞舆情兜底监控mw",
+                            "type": "social"
+                        }
+                    },
+                    "created_at": "2023-07-27T09:56:27Z",
+                    "updated_at": "2024-05-27T04:58:42Z"
+                },
+                {
+                    "id": "4b650950915d9b77304a31fa4132c2c102d71f17",
+                    "company": "5cc26b1145d60fc8167e4c75",
+                    "user": "65ee7428d685bd0008f6bcb5",
+                    "state": "RUNNING",
+                    "stateMessage": "",
+                    "config": {
+                        "destination": {
+                            "type": "HTTP",
+                            "endpoint": "https://socpltmng.alipay.com/meltwater/stream.json"
+                        },
+                        "search": {
+                            "id": 24430029,
+                            "name": "流入风洞-外国人支付限额-英语",
+                            "type": "social"
+                        },
+                        "template": {
+                            "name": "legacy"
+                        }
+                    },
+                    "created_at": "2024-03-06T09:10:05Z",
+                    "updated_at": "2024-05-27T04:58:46Z"
+                },
+                {
+                    "id": "5c2c09a9a69493933512fb3c008d2fc6e77e2578",
+                    "company": "5cc26b1145d60fc8167e4c75",
+                    "user": "65ee7428d685bd0008f6bcb5",
+                    "state": "RUNNING",
+                    "stateMessage": "",
+                    "config": {
+                        "destination": {
+                            "type": "HTTP",
+                            "endpoint": "https://socpltmng.alipay.com/meltwater/stream.json"
+                        },
+                        "search": {
+                            "id": 25376752,
+                            "name": "风洞-蚂蚁国际业务关键词",
+                            "type": "social"
+                        },
+                        "template": {
+                            "name": "legacy.streaming"
+                        },
+                        "productType": "MeltwaterAPIStreaming"
+                    },
+                    "created_at": "2024-07-16T03:30:05Z",
+                    "updated_at": "2024-07-16T03:30:16Z"
+                },
+                {
+                    "id": "5e6b7ed1f843c3046141c0ec89e80026a3e8e7c9",
+                    "company": "5cc26b1145d60fc8167e4c75",
+                    "user": "65ee7428d685bd0008f6bcb5",
+                    "state": "RUNNING",
+                    "stateMessage": "",
+                    "config": {
+                        "destination": {
+                            "type": "HTTP",
+                            "endpoint": "https://socpltmng.alipay.com/meltwater/stream.json"
+                        },
+                        "search": {
+                            "id": 25079489,
+                            "name": "风洞_欧洲杯A+钱包盗骗",
+                            "type": "social"
+                        },
+                        "template": {
+                            "name": "legacy.streaming"
+                        }
+                    },
+                    "created_at": "2024-06-12T10:40:09Z",
+                    "updated_at": "2024-06-12T10:40:12Z"
+                },
+                {
+                    "id": "5ef113d48adf76d72e8b7835d2e83c0d1f8bf2f9",
+                    "company": "5cc26b1145d60fc8167e4c75",
+                    "user": "65ee7428d685bd0008f6bcb5",
+                    "state": "RUNNING",
+                    "stateMessage": "",
+                    "config": {
+                        "destination": {
+                            "type": "HTTP",
+                            "endpoint": "https://socpltmng.alipay.com/meltwater/stream.json"
+                        },
+                        "search": {
+                            "id": 24182685,
+                            "name": "风洞-香港钱包",
+                            "type": "social"
+                        }
+                    },
+                    "created_at": "2024-02-01T02:20:06Z",
+                    "updated_at": "2024-07-16T03:39:00Z"
+                },
+                {
+                    "id": "6396c8763216b2f1cbe184eba263f7a88e4d14e4",
+                    "company": "5cc26b1145d60fc8167e4c75",
+                    "user": "65ee7428d685bd0008f6bcb5",
+                    "state": "RUNNING",
+                    "stateMessage": "",
+                    "config": {
+                        "destination": {
+                            "type": "HTTP",
+                            "endpoint": "https://socpltmng.alipay.com/meltwater/stream.json"
+                        },
+                        "search": {
+                            "id": 15589283,
+                            "name": "风洞预警Aplus机构重点舆情",
+                            "type": "news"
+                        }
+                    },
+                    "created_at": "2023-07-27T09:58:18Z",
+                    "updated_at": "2024-05-27T04:58:59Z"
+                },
+                {
+                    "id": "662c2191aab3ef68603774bc90a18df625454fb4",
+                    "company": "5cc26b1145d60fc8167e4c75",
+                    "user": "65ee7428d685bd0008f6bcb5",
+                    "state": "RUNNING",
+                    "stateMessage": "",
+                    "config": {
+                        "destination": {
+                            "type": "HTTP",
+                            "endpoint": "https://socpltmng.alipay.com/meltwater/stream.json"
+                        },
+                        "search": {
+                            "id": 24183625,
+                            "name": "流入风洞-总编办关注重点账号",
+                            "type": "social"
+                        }
+                    },
+                    "created_at": "2024-02-01T05:50:06Z",
+                    "updated_at": "2024-05-27T04:59:01Z"
+                },
+                {
+                    "id": "685ba51746b7fa109a970bdc437fe72d2ad2e789",
+                    "company": "5cc26b1145d60fc8167e4c75",
+                    "user": "65ee7428d685bd0008f6bcb5",
+                    "state": "RUNNING",
+                    "stateMessage": "",
+                    "config": {
+                        "destination": {
+                            "type": "HTTP",
+                            "endpoint": "https://socpltmng.alipay.com/meltwater/stream.json"
+                        },
+                        "search": {
+                            "id": 24324641,
+                            "name": "流入风洞-蚂蚁银行1",
+                            "type": "social"
+                        }
+                    },
+                    "created_at": "2024-02-20T03:10:09Z",
+                    "updated_at": "2024-07-16T03:34:39Z"
+                },
+                {
+                    "id": "6b0510a764674d69f891cecaba4089b7cefe6d51",
+                    "company": "5cc26b1145d60fc8167e4c75",
+                    "user": "65ee7428d685bd0008f6bcb5",
+                    "state": "RUNNING",
+                    "stateMessage": "",
+                    "config": {
+                        "destination": {
+                            "type": "HTTP",
+                            "endpoint": "https://socpltmng.alipay.com/meltwater/stream.json"
+                        },
+                        "search": {
+                            "id": 24324439,
+                            "name": "流入风洞-golocal钱包",
+                            "type": "social"
+                        }
+                    },
+                    "created_at": "2024-02-20T02:20:15Z",
+                    "updated_at": "2024-05-27T04:59:08Z"
+                },
+                {
+                    "id": "6b9e0c7143abb23bdf3e048615591dc3440b5927",
+                    "company": "5cc26b1145d60fc8167e4c75",
+                    "user": "65ee7428d685bd0008f6bcb5",
+                    "state": "RUNNING",
+                    "stateMessage": "",
+                    "config": {
+                        "destination": {
+                            "type": "HTTP",
+                            "endpoint": "https://socpltmng.alipay.com/meltwater/stream.json"
+                        },
+                        "search": {
+                            "id": 24443115,
+                            "name": "流入风洞-Alipay保底",
+                            "type": "social"
+                        },
+                        "template": {
+                            "name": "legacy"
+                        }
+                    },
+                    "created_at": "2024-03-08T01:50:08Z",
+                    "updated_at": "2024-05-27T04:59:11Z"
+                },
+                {
+                    "id": "6fc4c525ef4de5e0d548e9e39cd8b917fbdcafff",
+                    "company": "5cc26b1145d60fc8167e4c75",
+                    "user": "65ee7428d685bd0008f6bcb5",
+                    "state": "RUNNING",
+                    "stateMessage": "",
+                    "config": {
+                        "destination": {
+                            "type": "HTTP",
+                            "endpoint": "https://socpltmng.alipay.com/meltwater/stream.json"
+                        },
+                        "search": {
+                            "id": 25174239,
+                            "name": "风洞预警-国际电商风险",
+                            "type": "social"
+                        },
+                        "template": {
+                            "name": "legacy.streaming"
+                        },
+                        "productType": "MeltwaterAPIStreaming"
+                    },
+                    "created_at": "2024-06-25T08:20:13Z",
+                    "updated_at": "2024-06-25T08:20:26Z"
+                },
+                {
+                    "id": "7081ce3f74bd5e19553a6daa2d2564d99db42ffd",
+                    "company": "5cc26b1145d60fc8167e4c75",
+                    "user": "65ee7428d685bd0008f6bcb5",
+                    "state": "RUNNING",
+                    "stateMessage": "",
+                    "config": {
+                        "destination": {
+                            "type": "HTTP",
+                            "endpoint": "https://socpltmng.alipay.com/meltwater/stream.json"
+                        },
+                        "search": {
+                            "id": 25030444,
+                            "name": "流入风洞-欧洲杯流入",
+                            "type": "social"
+                        },
+                        "template": {
+                            "name": "legacy.streaming"
+                        }
+                    },
+                    "created_at": "2024-06-12T10:40:07Z",
+                    "updated_at": "2024-06-12T10:40:10Z"
+                },
+                {
+                    "id": "725c62754742319db3e0ef3000d9875565827e62",
+                    "company": "5cc26b1145d60fc8167e4c75",
+                    "user": "65ee7428d685bd0008f6bcb5",
+                    "state": "RUNNING",
+                    "stateMessage": "",
+                    "config": {
+                        "destination": {
+                            "type": "HTTP",
+                            "endpoint": "https://socpltmng.alipay.com/meltwater/stream.json"
+                        },
+                        "search": {
+                            "id": 14393577,
+                            "name": "风洞预警-美国监管机构-全品牌词覆盖",
+                            "type": "social"
+                        }
+                    },
+                    "created_at": "2023-07-27T09:57:41Z",
+                    "updated_at": "2024-05-27T04:59:15Z"
+                },
+                {
+                    "id": "7322d85cda0dabb6b5605e623ff81f3c822e5098",
+                    "company": "5cc26b1145d60fc8167e4c75",
+                    "user": "65ee7428d685bd0008f6bcb5",
+                    "state": "RUNNING",
+                    "stateMessage": "",
+                    "config": {
+                        "destination": {
+                            "type": "HTTP",
+                            "endpoint": "https://socpltmng.alipay.com/meltwater/stream.json"
+                        },
+                        "search": {
+                            "id": 14326185,
+                            "name": "风洞预警-Alipay UK/EU舆情监测专项",
+                            "type": "social"
+                        }
+                    },
+                    "created_at": "2023-07-27T09:57:46Z",
+                    "updated_at": "2024-05-27T04:59:15Z"
+                },
+                {
+                    "id": "760247d5c9ca8012bd48203f2015253b938b7af6",
+                    "company": "5cc26b1145d60fc8167e4c75",
+                    "user": "65ee7428d685bd0008f6bcb5",
+                    "state": "RUNNING",
+                    "stateMessage": "",
+                    "config": {
+                        "destination": {
+                            "type": "HTTP",
+                            "endpoint": "https://socpltmng.alipay.com/meltwater/stream.json"
+                        },
+                        "search": {
+                            "id": 25030551,
+                            "name": "流入风洞-Avatar",
+                            "type": "social"
+                        },
+                        "template": {
+                            "name": "legacy.streaming"
+                        }
+                    },
+                    "created_at": "2024-06-13T03:40:07Z",
+                    "updated_at": "2024-06-13T03:40:18Z"
+                },
+                {
+                    "id": "76c3ecbdfb9763055b3dcc170a3aaba6d90e831b",
+                    "company": "5cc26b1145d60fc8167e4c75",
+                    "user": "65ee7428d685bd0008f6bcb5",
+                    "state": "RUNNING",
+                    "stateMessage": "",
+                    "config": {
+                        "destination": {
+                            "type": "HTTP",
+                            "endpoint": "https://socpltmng.alipay.com/meltwater/stream.json"
+                        },
+                        "search": {
+                            "id": 25035588,
+                            "name": "流入风洞-欧洲杯流入-新闻媒体",
+                            "type": "news"
+                        },
+                        "template": {
+                            "name": "legacy.streaming"
+                        }
+                    },
+                    "created_at": "2024-06-12T10:40:05Z",
+                    "updated_at": "2024-06-12T10:40:09Z"
+                },
+                {
+                    "id": "78ad5cfc951caf8da52802ba7273df805afe43f0",
+                    "company": "5cc26b1145d60fc8167e4c75",
+                    "user": "65ee7428d685bd0008f6bcb5",
+                    "state": "RUNNING",
+                    "stateMessage": "",
+                    "config": {
+                        "destination": {
+                            "type": "HTTP",
+                            "endpoint": "https://socpltmng.alipay.com/meltwater/stream.json"
+                        },
+                        "search": {
+                            "id": 13712295,
+                            "name": "风洞预警合作伙伴数安舆情",
+                            "type": "social"
+                        }
+                    },
+                    "created_at": "2023-07-27T09:55:29Z",
+                    "updated_at": "2024-05-27T04:59:18Z"
+                },
+                {
+                    "id": "7d9273192fe7ad33cc40f407a48ca47411d5a5a2",
+                    "company": "5cc26b1145d60fc8167e4c75",
+                    "user": "65ee7428d685bd0008f6bcb5",
+                    "state": "RUNNING",
+                    "stateMessage": "",
+                    "config": {
+                        "destination": {
+                            "type": "HTTP",
+                            "endpoint": "https://socpltmng.alipay.com/meltwater/stream.json"
+                        },
+                        "search": {
+                            "id": 24738285,
+                            "name": "风洞-国际全风-机构监测",
+                            "type": "social"
+                        },
+                        "template": {
+                            "name": "legacy"
+                        }
+                    },
+                    "created_at": "2024-04-19T06:00:05Z",
+                    "updated_at": "2024-05-27T04:59:21Z"
+                },
+                {
+                    "id": "82017b13c740d228790fb765481b748e70ab6e83",
+                    "company": "5cc26b1145d60fc8167e4c75",
+                    "user": "65ee7428d685bd0008f6bcb5",
+                    "state": "RUNNING",
+                    "stateMessage": "",
+                    "config": {
+                        "destination": {
+                            "type": "HTTP",
+                            "endpoint": "https://socpltmng.alipay.com/meltwater/stream.json"
+                        },
+                        "search": {
+                            "id": 15654818,
+                            "name": "风洞预警-巴西-数据泄露",
+                            "type": "social"
+                        }
+                    },
+                    "created_at": "2023-07-27T09:55:45Z",
+                    "updated_at": "2024-05-27T04:59:24Z"
+                },
+                {
+                    "id": "86428d72b57e840aa90cd00a15920bbe0fa00b75",
+                    "company": "5cc26b1145d60fc8167e4c75",
+                    "user": "65ee7428d685bd0008f6bcb5",
+                    "state": "RUNNING",
+                    "stateMessage": "",
+                    "config": {
+                        "destination": {
+                            "type": "HTTP",
+                            "endpoint": "https://socpltmng.alipay.com/meltwater/stream.json"
+                        },
+                        "search": {
+                            "id": 24113194,
+                            "name": "流入风洞-万里汇",
+                            "type": "social"
+                        }
+                    },
+                    "created_at": "2024-01-23T09:10:04Z",
+                    "updated_at": "2024-05-27T04:59:27Z"
+                },
+                {
+                    "id": "8af20da3c49afcaed465afc949ddbd044d1dd85d",
+                    "company": "5cc26b1145d60fc8167e4c75",
+                    "user": "65ee7428d685bd0008f6bcb5",
+                    "state": "RUNNING",
+                    "stateMessage": "",
+                    "config": {
+                        "destination": {
+                            "type": "HTTP",
+                            "endpoint": "https://socpltmng.alipay.com/meltwater/stream.json"
+                        },
+                        "search": {
+                            "id": 22821867,
+                            "name": "流入风洞-涉政大词类2",
+                            "type": "social"
+                        }
+                    },
+                    "created_at": "2023-07-27T09:56:53Z",
+                    "updated_at": "2024-05-27T04:59:34Z"
+                },
+                {
+                    "id": "92946a7ae2db3621a1a899c7c77ec1f7fc8634b5",
+                    "company": "5cc26b1145d60fc8167e4c75",
+                    "user": "65ee7428d685bd0008f6bcb5",
+                    "state": "RUNNING",
+                    "stateMessage": "",
+                    "config": {
+                        "destination": {
+                            "type": "HTTP",
+                            "endpoint": "https://socpltmng.alipay.com/meltwater/stream.json"
+                        },
+                        "search": {
+                            "id": 25078682,
+                            "name": "流入风洞-德国内政部官网",
+                            "type": "social"
+                        },
+                        "template": {
+                            "name": "legacy.streaming"
+                        }
+                    },
+                    "created_at": "2024-06-13T03:40:07Z",
+                    "updated_at": "2024-06-13T03:40:09Z"
+                },
+                {
+                    "id": "9f81d469aa3503e20e876cdddbf0a6bf82ecc9b5",
+                    "company": "5cc26b1145d60fc8167e4c75",
+                    "user": "65ee7428d685bd0008f6bcb5",
+                    "state": "RUNNING",
+                    "stateMessage": "",
+                    "config": {
+                        "destination": {
+                            "type": "HTTP",
+                            "endpoint": "https://socpltmng.alipay.com/meltwater/stream.json"
+                        },
+                        "search": {
+                            "id": 24663520,
+                            "name": "风洞-收单机构-禁限售风险&网安&流动性风险&合规风险",
+                            "type": "news"
+                        },
+                        "template": {
+                            "name": "legacy"
+                        }
+                    },
+                    "created_at": "2024-04-10T01:40:05Z",
+                    "updated_at": "2024-05-27T04:59:57Z"
+                },
+                {
+                    "id": "9f9b797d866d3fe1145809617d54ea1eb65324e9",
+                    "company": "5cc26b1145d60fc8167e4c75",
+                    "user": "65ee7428d685bd0008f6bcb5",
+                    "state": "RUNNING",
+                    "stateMessage": "",
+                    "config": {
+                        "destination": {
+                            "type": "HTTP",
+                            "endpoint": "https://socpltmng.alipay.com/meltwater/stream.json"
+                        },
+                        "search": {
+                            "id": 24912440,
+                            "name": "风洞-香港钱包万宁盗用",
+                            "type": "social"
+                        },
+                        "template": {
+                            "name": "legacy.streaming"
+                        }
+                    },
+                    "created_at": "2024-06-12T10:40:06Z",
+                    "updated_at": "2024-06-12T10:40:09Z"
+                },
+                {
+                    "id": "a5637253a99e3056c3a4aadd0d299a576030e67a",
+                    "company": "5cc26b1145d60fc8167e4c75",
+                    "user": "65ee7428d685bd0008f6bcb5",
+                    "state": "RUNNING",
+                    "stateMessage": "",
+                    "config": {
+                        "destination": {
+                            "type": "HTTP",
+                            "endpoint": "https://socpltmng.alipay.com/meltwater/stream.json"
+                        },
+                        "search": {
+                            "id": 18619783,
+                            "name": "风洞SIMulation Attack",
+                            "type": "social"
+                        }
+                    },
+                    "created_at": "2023-07-27T09:56:16Z",
+                    "updated_at": "2024-05-27T04:59:59Z"
+                },
+                {
+                    "id": "a6794e1f6f9b527db1654c0058d3788d7463f8e0",
+                    "company": "5cc26b1145d60fc8167e4c75",
+                    "user": "65ee7428d685bd0008f6bcb5",
+                    "state": "RUNNING",
+                    "stateMessage": "",
+                    "config": {
+                        "destination": {
+                            "type": "HTTP",
+                            "endpoint": "https://socpltmng.alipay.com/meltwater/stream.json"
+                        },
+                        "search": {
+                            "id": 13686151,
+                            "name": "风洞预警礼品卡商户舆情",
+                            "type": "social"
+                        }
+                    },
+                    "created_at": "2023-07-27T09:57:19Z",
+                    "updated_at": "2024-05-27T05:00:03Z"
+                },
+                {
+                    "id": "a75cc232cec56b7856ebe40d14c4901b8ba15787",
+                    "company": "5cc26b1145d60fc8167e4c75",
+                    "user": "65ee7428d685bd0008f6bcb5",
+                    "state": "RUNNING",
+                    "stateMessage": "",
+                    "config": {
+                        "destination": {
+                            "type": "HTTP",
+                            "endpoint": "https://socpltmng.alipay.com/meltwater/stream.json"
+                        },
+                        "search": {
+                            "id": 24209338,
+                            "name": "(风洞)twitter内容安全关注",
+                            "type": "social"
+                        }
+                    },
+                    "created_at": "2024-02-05T09:50:05Z",
+                    "updated_at": "2024-05-27T05:00:03Z"
+                },
+                {
+                    "id": "aa5f4fad52df69ee1b7d9fd71465b91916c39ab8",
+                    "company": "5cc26b1145d60fc8167e4c75",
+                    "user": "65ee7428d685bd0008f6bcb5",
+                    "state": "RUNNING",
+                    "stateMessage": "",
+                    "config": {
+                        "destination": {
+                            "type": "HTTP",
+                            "endpoint": "https://socpltmng.alipay.com/meltwater/stream.json"
+                        },
+                        "search": {
+                            "id": 18141238,
+                            "name": "风洞sberbank和alipay合作风险",
+                            "type": "social"
+                        }
+                    },
+                    "created_at": "2023-07-27T09:57:57Z",
+                    "updated_at": "2024-05-27T05:00:06Z"
+                },
+                {
+                    "id": "ab64b95eaab9ffd2010b3335f2a0d620f232bd4b",
+                    "company": "5cc26b1145d60fc8167e4c75",
+                    "user": "65ee7428d685bd0008f6bcb5",
+                    "state": "RUNNING",
+                    "stateMessage": "",
+                    "config": {
+                        "destination": {
+                            "type": "HTTP",
+                            "endpoint": "https://socpltmng.alipay.com/meltwater/stream.json"
+                        },
+                        "search": {
+                            "id": 24463077,
+                            "name": "流入风洞-钱塘项目-负面词-中文",
+                            "type": "social"
+                        },
+                        "template": {
+                            "name": "legacy"
+                        }
+                    },
+                    "created_at": "2024-03-11T10:50:08Z",
+                    "updated_at": "2024-05-27T05:00:06Z"
+                },
+                {
+                    "id": "ad97af8dc339061f61df5ca9a337ee7f95983de9",
+                    "company": "5cc26b1145d60fc8167e4c75",
+                    "user": "65ee7428d685bd0008f6bcb5",
+                    "state": "RUNNING",
+                    "stateMessage": "",
+                    "config": {
+                        "destination": {
+                            "type": "HTTP",
+                            "endpoint": "https://socpltmng.alipay.com/meltwater/stream.json"
+                        },
+                        "search": {
+                            "id": 15588837,
+                            "name": "风洞预警B15商户重点舆情",
+                            "type": "social"
+                        }
+                    },
+                    "created_at": "2023-07-27T09:57:51Z",
+                    "updated_at": "2024-05-27T05:00:09Z"
+                },
+                {
+                    "id": "b20c6ac4b811c8c105059e374e9285d1de2916f1",
+                    "company": "5cc26b1145d60fc8167e4c75",
+                    "user": "65ee7428d685bd0008f6bcb5",
+                    "state": "RUNNING",
+                    "stateMessage": "",
+                    "config": {
+                        "destination": {
+                            "type": "HTTP",
+                            "endpoint": "https://socpltmng.alipay.com/meltwater/stream.json"
+                        },
+                        "search": {
+                            "id": 25174683,
+                            "name": "风洞—泛制裁风险",
+                            "type": "social"
+                        },
+                        "template": {
+                            "name": "legacy.streaming"
+                        },
+                        "productType": "MeltwaterAPIStreaming"
+                    },
+                    "created_at": "2024-06-25T08:20:12Z",
+                    "updated_at": "2024-06-25T08:20:25Z"
+                },
+                {
+                    "id": "b223a7e5650f9229816257107cb9b808b0c388f6",
+                    "company": "5cc26b1145d60fc8167e4c75",
+                    "user": "65ee7428d685bd0008f6bcb5",
+                    "state": "RUNNING",
+                    "stateMessage": "",
+                    "config": {
+                        "destination": {
+                            "type": "HTTP",
+                            "endpoint": "https://socpltmng.alipay.com/meltwater/stream.json"
+                        },
+                        "search": {
+                            "id": 22971669,
+                            "name": "风洞-ABC",
+                            "type": "social"
+                        }
+                    },
+                    "created_at": "2023-07-27T09:59:21Z",
+                    "updated_at": "2024-05-27T05:00:16Z"
+                },
+                {
+                    "id": "b2e2dcc7d2f3a2211618cdefb23e4f12be56a894",
+                    "company": "5cc26b1145d60fc8167e4c75",
+                    "user": "65ee7428d685bd0008f6bcb5",
+                    "state": "RUNNING",
+                    "stateMessage": "",
+                    "config": {
+                        "destination": {
+                            "type": "HTTP",
+                            "endpoint": "https://socpltmng.alipay.com/meltwater/stream.json"
+                        },
+                        "search": {
+                            "id": 24738659,
+                            "name": "风洞-香港钱包标题",
+                            "type": "social"
+                        },
+                        "template": {
+                            "name": "legacy"
+                        }
+                    },
+                    "created_at": "2024-04-19T07:20:09Z",
+                    "updated_at": "2024-05-27T05:00:18Z"
+                },
+                {
+                    "id": "b6b0f8e95281561581dfaf896aca6ddb50fab6b9",
+                    "company": "5cc26b1145d60fc8167e4c75",
+                    "user": "65ee7428d685bd0008f6bcb5",
+                    "state": "RUNNING",
+                    "stateMessage": "",
+                    "config": {
+                        "destination": {
+                            "type": "HTTP",
+                            "endpoint": "https://socpltmng.alipay.com/meltwater/stream.json"
+                        },
+                        "search": {
+                            "id": 22821823,
+                            "name": "流入风洞-涉政大词类1",
+                            "type": "social"
+                        }
+                    },
+                    "created_at": "2023-07-27T09:56:48Z",
+                    "updated_at": "2024-05-27T05:00:23Z"
+                },
+                {
+                    "id": "b79d39972e550fef0486c413fd3d719f943327f0",
+                    "company": "5cc26b1145d60fc8167e4c75",
+                    "user": "65ee7428d685bd0008f6bcb5",
+                    "state": "RUNNING",
+                    "stateMessage": "",
+                    "config": {
+                        "destination": {
+                            "type": "HTTP",
+                            "endpoint": "https://socpltmng.alipay.com/meltwater/stream.json"
+                        },
+                        "search": {
+                            "id": 25137828,
+                            "name": "流入风洞-钱塘项目-负面词-多语言",
+                            "type": "social"
+                        },
+                        "template": {
+                            "name": "legacy.streaming"
+                        }
+                    },
+                    "created_at": "2024-06-13T03:40:05Z",
+                    "updated_at": "2024-06-13T03:40:08Z"
+                },
+                {
+                    "id": "c379acf650cd8a34df1f13c80dfc68cff6c6d515",
+                    "company": "5cc26b1145d60fc8167e4c75",
+                    "user": "65ee7428d685bd0008f6bcb5",
+                    "state": "RUNNING",
+                    "stateMessage": "",
+                    "config": {
+                        "destination": {
+                            "type": "HTTP",
+                            "endpoint": "https://socpltmng.alipay.com/meltwater/stream.json"
+                        },
+                        "search": {
+                            "id": 25173056,
+                            "name": "风洞预警-国际电商B+-禁限售风险",
+                            "type": "social"
+                        },
+                        "template": {
+                            "name": "legacy.streaming"
+                        },
+                        "productType": "MeltwaterAPIStreaming"
+                    },
+                    "created_at": "2024-06-25T08:06:18Z",
+                    "updated_at": "2024-06-25T08:06:25Z"
+                },
+                {
+                    "id": "cc3996878e517f46b6caadd3fc374602d1685b6a",
+                    "company": "5cc26b1145d60fc8167e4c75",
+                    "user": "65ee7428d685bd0008f6bcb5",
+                    "state": "RUNNING",
+                    "stateMessage": "",
+                    "config": {
+                        "destination": {
+                            "type": "HTTP",
+                            "endpoint": "https://socpltmng.alipay.com/meltwater/stream.json"
+                        },
+                        "search": {
+                            "id": 25173025,
+                            "name": "风洞预警—B类项目—全球禁限售政策类",
+                            "type": "social"
+                        },
+                        "template": {
+                            "name": "legacy.streaming"
+                        },
+                        "productType": "MeltwaterAPIStreaming"
+                    },
+                    "created_at": "2024-06-25T08:20:14Z",
+                    "updated_at": "2024-06-25T08:20:26Z"
+                },
+                {
+                    "id": "d0422ada4a86ba646b348af0f57ff7b1e9693090",
+                    "company": "5cc26b1145d60fc8167e4c75",
+                    "user": "65ee7428d685bd0008f6bcb5",
+                    "state": "RUNNING",
+                    "stateMessage": "",
+                    "config": {
+                        "destination": {
+                            "type": "HTTP",
+                            "endpoint": "https://socpltmng.alipay.com/meltwater/stream.json"
+                        },
+                        "search": {
+                            "id": 24919985,
+                            "name": "流入风洞-535风险词1",
+                            "type": "social"
+                        },
+                        "template": {
+                            "name": "legacy.streaming"
+                        }
+                    },
+                    "created_at": "2024-06-13T02:40:04Z",
+                    "updated_at": "2024-06-13T02:40:07Z"
+                },
+                {
+                    "id": "d4509f7a4c74bb82bef26383f63783cf02302c40",
+                    "company": "5cc26b1145d60fc8167e4c75",
+                    "user": "65ee7428d685bd0008f6bcb5",
+                    "state": "RUNNING",
+                    "stateMessage": "",
+                    "config": {
+                        "destination": {
+                            "type": "HTTP",
+                            "endpoint": "https://socpltmng.alipay.com/meltwater/stream.json"
+                        },
+                        "search": {
+                            "id": 11239841,
+                            "name": "（风洞预警-机构域）（日常看）全球汇款-日常业务",
+                            "type": "social"
+                        }
+                    },
+                    "created_at": "2023-07-27T09:57:30Z",
+                    "updated_at": "2024-05-27T05:00:31Z"
+                },
+                {
+                    "id": "dec9b28cf46b52252742f8c631e00878131b612a",
+                    "company": "5cc26b1145d60fc8167e4c75",
+                    "user": "65ee7428d685bd0008f6bcb5",
+                    "state": "RUNNING",
+                    "stateMessage": "",
+                    "config": {
+                        "destination": {
+                            "type": "HTTP",
+                            "endpoint": "https://socpltmng.alipay.com/meltwater/stream.json"
+                        },
+                        "search": {
+                            "id": 25140120,
+                            "name": "风洞-欧洲杯-辱华",
+                            "type": "social"
+                        },
+                        "template": {
+                            "name": "legacy.streaming"
+                        },
+                        "productType": "MeltwaterAPIStreaming"
+                    },
+                    "created_at": "2024-06-25T08:20:19Z",
+                    "updated_at": "2024-06-25T08:20:26Z"
+                },
+                {
+                    "id": "e151f6b3fe8ecdc75761764551220915ba363168",
+                    "company": "5cc26b1145d60fc8167e4c75",
+                    "user": "65ee7428d685bd0008f6bcb5",
+                    "state": "RUNNING",
+                    "stateMessage": "",
+                    "config": {
+                        "destination": {
+                            "type": "HTTP",
+                            "endpoint": "https://socpltmng.alipay.com/meltwater/stream.json"
+                        },
+                        "search": {
+                            "id": 24862454,
+                            "name": "风洞-美国制裁中国银行swift",
+                            "type": "social"
+                        },
+                        "template": {
+                            "name": "legacy.streaming"
+                        }
+                    },
+                    "created_at": "2024-05-06T08:20:05Z",
+                    "updated_at": "2024-05-27T05:00:35Z"
+                },
+                {
+                    "id": "eca2e2d58340e41badc3c6dc4900e5bf28ba0c27",
+                    "company": "5cc26b1145d60fc8167e4c75",
+                    "user": "65ee7428d685bd0008f6bcb5",
+                    "state": "RUNNING",
+                    "stateMessage": "",
+                    "config": {
+                        "destination": {
+                            "type": "HTTP",
+                            "endpoint": "https://socpltmng.alipay.com/meltwater/stream.json"
+                        },
+                        "search": {
+                            "id": 12881891,
+                            "name": "（不要看）风洞_产品使用不用日常运营-业务大词-新闻 new",
+                            "type": "social"
+                        }
+                    },
+                    "created_at": "2023-07-27T09:56:37Z",
+                    "updated_at": "2024-05-27T05:00:44Z"
+                },
+                {
+                    "id": "ed894738327bf8549337494c9ffdf11e7d4727ba",
+                    "company": "5cc26b1145d60fc8167e4c75",
+                    "user": "65ee7428d685bd0008f6bcb5",
+                    "state": "RUNNING",
+                    "stateMessage": "",
+                    "config": {
+                        "destination": {
+                            "type": "HTTP",
+                            "endpoint": "https://socpltmng.alipay.com/meltwater/stream.json"
+                        },
+                        "search": {
+                            "id": 23849593,
+                            "name": "流入风洞-涉政大词类4",
+                            "type": "social"
+                        }
+                    },
+                    "created_at": "2023-12-11T03:20:10Z",
+                    "updated_at": "2024-05-27T05:00:44Z"
+                },
+                {
+                    "id": "edf763147a61b0a241ee94e9be23995bda0df557",
+                    "company": "5cc26b1145d60fc8167e4c75",
+                    "user": "65ee7428d685bd0008f6bcb5",
+                    "state": "RUNNING",
+                    "stateMessage": "",
+                    "config": {
+                        "destination": {
+                            "type": "HTTP",
+                            "endpoint": "https://socpltmng.alipay.com/meltwater/stream.json"
+                        },
+                        "search": {
+                            "id": 25174151,
+                            "name": "风洞预警-全球汇机构",
+                            "type": "social"
+                        },
+                        "template": {
+                            "name": "legacy.streaming"
+                        },
+                        "productType": "MeltwaterAPIStreaming"
+                    },
+                    "created_at": "2024-06-25T08:20:09Z",
+                    "updated_at": "2024-06-25T08:20:24Z"
+                },
+                {
+                    "id": "f3559a861a310bd36c0d1dd775084014d4a3c645",
+                    "company": "5cc26b1145d60fc8167e4c75",
+                    "user": "65ee7428d685bd0008f6bcb5",
+                    "state": "RUNNING",
+                    "stateMessage": "",
+                    "config": {
+                        "destination": {
+                            "type": "HTTP",
+                            "endpoint": "https://socpltmng.alipay.com/meltwater/stream.json"
+                        },
+                        "search": {
+                            "id": 12881879,
+                            "name": "（不要看）风洞_产品使用不用日常运营-业务大词-社交 new",
+                            "type": "social"
+                        },
+                        "template": {
+                            "name": "legacy.streaming"
+                        },
+                        "productType": "MeltwaterAPIStreaming"
+                    },
+                    "created_at": "2024-06-25T08:20:10Z",
+                    "updated_at": "2024-06-25T08:20:24Z"
+                },
+                {
+                    "id": "fc76bd3305b01b895b7ddb4ddd4ebd1622141f19",
+                    "company": "5cc26b1145d60fc8167e4c75",
+                    "user": "65ee7428d685bd0008f6bcb5",
+                    "state": "RUNNING",
+                    "stateMessage": "",
+                    "config": {
+                        "destination": {
+                            "type": "HTTP",
+                            "endpoint": "https://socpltmng.alipay.com/meltwater/stream.json"
+                        },
+                        "search": {
+                            "id": 24525490,
+                            "name": "风洞-A+机构-欺诈&禁限售风险",
+                            "type": "social"
+                        },
+                        "template": {
+                            "name": "legacy"
+                        }
+                    },
+                    "created_at": "2024-03-20T07:40:04Z",
+                    "updated_at": "2024-05-27T04:32:03Z"
+                },
+                {
+                    "id": "fffdd8445706d7a1393362748eec2fadbd315043",
+                    "company": "5cc26b1145d60fc8167e4c75",
+                    "user": "65ee7428d685bd0008f6bcb5",
+                    "state": "RUNNING",
+                    "stateMessage": "",
+                    "config": {
+                        "destination": {
+                            "type": "HTTP",
+                            "endpoint": "https://socpltmng.alipay.com/meltwater/stream.json"
+                        },
+                        "search": {
+                            "id": 15214055,
+                            "name": "风洞预警Aplus钱包营销舆情",
+                            "type": "social"
+                        }
+                    },
+                    "created_at": "2023-07-27T09:55:34Z",
+                    "updated_at": "2024-05-27T04:56:45Z"
+                }
+            ],
+            "meta": {
+                "next": "NWVlOWUyYmI1MDU0YzUwMDEwYWQyN2FmOjE2Yzc0OThmNmJmZTM0NDMyMTFkZmZjNWEyMWY3N2JlOTA5ODlhY2I="
+            }
+        },
+        "isExecutionSuccess": true,
+        "messages": [],
+        "dataTypes": [
+            {
+                "dataType": "JSON"
+            },
+            {
+                "dataType": "RAW"
+            }
+        ]
+    },
+    "errorDisplay": ""
+}
